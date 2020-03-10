@@ -12,6 +12,9 @@ from bs4 import BeautifulSoup
 from os import listdir
 from time import time
 import networkx as nx
+import matplotlib
+from networkx.readwrite import json_graph
+import json
 
 nltk.download("punkt")   # Download data for tokenizer.
 stop_words = stopwords.words('english')
@@ -27,9 +30,11 @@ def preprocess(doc):
     doc = [w for w in doc if not w in stop_words]  # Remove stopwords.
     doc = [w for w in doc if w.isalpha()]  # Remove numbers and punctuation.
     return doc
-
+i = 0
 #Get file names
 for file in os.listdir(path):
+    if i == 50:
+        break
     f = open(path + '/' + file)
     doc_corpus.append(file)
     # Pre-process document.
@@ -38,11 +43,12 @@ for file in os.listdir(path):
     # Add to corpus for training Word2Vec.
     w2v_corpus.append(text)
     f.close()
+    i = i + 1
 
 if not os.path.exists('/home/agith_yogendra/Desktop/GoogleNews-vectors-negative300.bin'):
     raise ValueError("SKIP: You need to download the google news model")
 start = time()
-model = Word2Vec.KeyedVectors.load_word2vec_format('/home/agith_yogendra/Desktop/GoogleNews-vectors-negative300.bin', binary=True, limit = 10000)    
+model = Word2Vec.KeyedVectors.load_word2vec_format('/home/agith_yogendra/Desktop/GoogleNews-vectors-negative300.bin', binary=True, limit = 50000)    
 model.init_sims(replace=True)
 model.save('word_embeddings')
 
@@ -50,7 +56,9 @@ for i in range(len(doc_corpus)):
     for j in range(len(doc_corpus)):
         if i == j:
             continue
-        G.add_edge(doc_corpus[i], doc_corpus[j], weight = model.wmdistance(w2v_corpus[i], w2v_corpus[j]))
-	
+        G.add_edge(doc_corpus[i], doc_corpus[j], weight = Word2Vec.KeyedVectors.load('word_embeddings', mmap = 'r').wmdistance(w2v_corpus[i], w2v_corpus[j]))
+
+graph_json = json_graph.node_link_data(G)
+json.dump(graph_json, open('graph.json', 'w'), indent = 2)
 print ('Cell took %.2f seconds to run.' %(time() - start))
 
