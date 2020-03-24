@@ -48,7 +48,7 @@ for file in os.listdir(path):
 if not os.path.exists('/home/agith_yogendra/Desktop/GoogleNews-vectors-negative300.bin'):
     raise ValueError("SKIP: You need to download the google news model")
 start = time()
-model = Word2Vec.KeyedVectors.load_word2vec_format('/home/agith_yogendra/Desktop/GoogleNews-vectors-negative300.bin', binary=True, limit = 50000)    
+model = Word2Vec.KeyedVectors.load_word2vec_format('/home/agith_yogendra/Desktop/GoogleNews-vectors-negative300.bin', binary=True)    
 model.init_sims(replace=True)
 model.save('word_embeddings')
 
@@ -59,6 +59,6 @@ for i in range(len(doc_corpus)):
         G.add_edge(doc_corpus[i], doc_corpus[j], weight = Word2Vec.KeyedVectors.load('word_embeddings', mmap = 'r').wmdistance(w2v_corpus[i], w2v_corpus[j]))
 
 graph_json = json_graph.node_link_data(G)
-json.dump(graph_json, open('graph.json', 'w'), indent = 2)
+json.dump(graph_json, open('graphGood.json', 'w'), indent = 2)
 print ('Cell took %.2f seconds to run.' %(time() - start))
 
