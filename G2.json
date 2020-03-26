@@ -1,0 +1,6284 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "id": "clueweb09-en0000-02-07839"
+    },
+    {
+      "id": "clueweb09-en0000-00-19229"
+    },
+    {
+      "id": "clueweb09-en0000-00-26076"
+    },
+    {
+      "id": "clueweb09-en0000-02-18367"
+    },
+    {
+      "id": "clueweb09-en0000-02-07832"
+    },
+    {
+      "id": "clueweb09-en0000-04-09889"
+    },
+    {
+      "id": "clueweb09-en0000-02-07827"
+    },
+    {
+      "id": "clueweb09-en0000-04-18769"
+    },
+    {
+      "id": "clueweb09-en0000-02-26152"
+    },
+    {
+      "id": "clueweb09-en0000-01-12821"
+    },
+    {
+      "id": "clueweb09-en0000-03-32395"
+    },
+    {
+      "id": "clueweb09-en0000-02-19954"
+    },
+    {
+      "id": "clueweb09-en0000-00-03550"
+    },
+    {
+      "id": "clueweb09-en0000-02-19428"
+    },
+    {
+      "id": "clueweb09-en0000-03-28208"
+    },
+    {
+      "id": "clueweb09-en0000-04-21397"
+    },
+    {
+      "id": "clueweb09-en0000-00-18103"
+    },
+    {
+      "id": "clueweb09-en0000-04-07538"
+    },
+    {
+      "id": "clueweb09-en0000-01-14442"
+    },
+    {
+      "id": "clueweb09-en0000-02-12464"
+    },
+    {
+      "id": "clueweb09-en0000-00-10175"
+    },
+    {
+      "id": "clueweb09-en0000-01-00328"
+    },
+    {
+      "id": "clueweb09-en0000-03-33522"
+    },
+    {
+      "id": "clueweb09-en0000-01-15199"
+    },
+    {
+      "id": "clueweb09-en0000-03-33496"
+    },
+    {
+      "id": "clueweb09-en0000-01-04200"
+    },
+    {
+      "id": "clueweb09-en0000-04-20730"
+    },
+    {
+      "id": "clueweb09-en0000-02-21262"
+    },
+    {
+      "id": "clueweb09-en0000-02-12080"
+    },
+    {
+      "id": "clueweb09-en0000-01-12836"
+    },
+    {
+      "id": "clueweb09-en0000-02-21197"
+    },
+    {
+      "id": "clueweb09-en0000-02-19916"
+    },
+    {
+      "id": "clueweb09-en0000-02-00066"
+    },
+    {
+      "id": "clueweb09-en0000-02-07834"
+    },
+    {
+      "id": "clueweb09-en0000-02-19975"
+    },
+    {
+      "id": "clueweb09-en0000-04-23982"
+    },
+    {
+      "id": "clueweb09-en0000-04-10510"
+    },
+    {
+      "id": "clueweb09-en0000-03-14289"
+    },
+    {
+      "id": "clueweb09-en0000-02-34371"
+    },
+    {
+      "id": "clueweb09-en0000-00-21114"
+    },
+    {
+      "id": "clueweb09-en0000-02-08143"
+    },
+    {
+      "id": "clueweb09-en0000-01-11933"
+    },
+    {
+      "id": "clueweb09-en0000-03-33502"
+    },
+    {
+      "id": "clueweb09-en0000-04-09942"
+    },
+    {
+      "id": "clueweb09-en0000-03-11258"
+    },
+    {
+      "id": "clueweb09-en0000-00-20622"
+    },
+    {
+      "id": "clueweb09-en0000-00-21045"
+    },
+    {
+      "id": "clueweb09-en0000-00-19318"
+    },
+    {
+      "id": "clueweb09-en0000-04-08227"
+    },
+    {
+      "id": "clueweb09-en0000-01-12451"
+    }
+  ],
+  "links": [
+    {
+      "weight": 0.09520555956817756,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-00-19229"
+    },
+    {
+      "weight": 0.059065005628987866,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-00-26076"
+    },
+    {
+      "weight": 0.018961343945387066,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-02-18367"
+    },
+    {
+      "weight": 0.21267503796249765,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-02-07832"
+    },
+    {
+      "weight": 0.05494339854816799,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-04-09889"
+    },
+    {
+      "weight": 0.2168497221665665,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-02-07827"
+    },
+    {
+      "weight": 0.00598875691628975,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-04-18769"
+    },
+    {
+      "weight": 0.03870315545669123,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-02-26152"
+    },
+    {
+      "weight": 0.021318636419719983,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-01-12821"
+    },
+    {
+      "weight": 0.10577749902611866,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-03-32395"
+    },
+    {
+      "weight": 0.13244050436181354,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-02-19954"
+    },
+    {
+      "weight": 0.033824590487910644,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-00-03550"
+    },
+    {
+      "weight": 0.08115443373075582,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-02-19428"
+    },
+    {
+      "weight": 0.078157672568403,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-03-28208"
+    },
+    {
+      "weight": 0.019434744363707734,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-04-21397"
+    },
+    {
+      "weight": 0.05099758412376909,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-00-18103"
+    },
+    {
+      "weight": 0.04783217664860551,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-04-07538"
+    },
+    {
+      "weight": 0.1050261502505696,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-01-14442"
+    },
+    {
+      "weight": 0.03419152555851879,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-02-12464"
+    },
+    {
+      "weight": 0.04242730259803329,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-00-10175"
+    },
+    {
+      "weight": 0.11588008405121664,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-01-00328"
+    },
+    {
+      "weight": 0.07921181068996774,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-03-33522"
+    },
+    {
+      "weight": 0.08997352396939462,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-01-15199"
+    },
+    {
+      "weight": 0.07274547785683816,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-03-33496"
+    },
+    {
+      "weight": 0.048454617117490884,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-01-04200"
+    },
+    {
+      "weight": 0.08437488755778921,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-04-20730"
+    },
+    {
+      "weight": 0.04812861725594386,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-02-21262"
+    },
+    {
+      "weight": 0.10573618984933097,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-02-12080"
+    },
+    {
+      "weight": 0.0458066374398185,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-01-12836"
+    },
+    {
+      "weight": 0.06147811460610675,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-02-21197"
+    },
+    {
+      "weight": 0.03855773121196848,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-02-19916"
+    },
+    {
+      "weight": 0.12916447197757752,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-02-00066"
+    },
+    {
+      "weight": 0.19691794744399171,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-02-07834"
+    },
+    {
+      "weight": 0.11039579020295753,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-02-19975"
+    },
+    {
+      "weight": 0.01615834867153998,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-04-23982"
+    },
+    {
+      "weight": 0.06413929424764775,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-04-10510"
+    },
+    {
+      "weight": 0.033247662288737434,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-03-14289"
+    },
+    {
+      "weight": 0.06784549910699544,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-02-34371"
+    },
+    {
+      "weight": 0.05194659964242887,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-00-21114"
+    },
+    {
+      "weight": 0.07488117137113282,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-02-08143"
+    },
+    {
+      "weight": 0.025568731662733102,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-01-11933"
+    },
+    {
+      "weight": 0.025608530179024758,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-03-33502"
+    },
+    {
+      "weight": 0.005433098386152246,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-04-09942"
+    },
+    {
+      "weight": 0.06518143370105278,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-03-11258"
+    },
+    {
+      "weight": 0.0550202936260733,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.06233005950197179,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.06335899257057087,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.025124614203731133,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.08791620964712088,
+      "source": "clueweb09-en0000-02-07839",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.05724489332833882,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-00-26076"
+    },
+    {
+      "weight": 0.05958404724694821,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-02-18367"
+    },
+    {
+      "weight": 0.10105318776308603,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-02-07832"
+    },
+    {
+      "weight": 0.06859318262144543,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-04-09889"
+    },
+    {
+      "weight": 0.10887361266061801,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-02-07827"
+    },
+    {
+      "weight": 0.07522985183715769,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-04-18769"
+    },
+    {
+      "weight": 0.023699557830031526,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-02-26152"
+    },
+    {
+      "weight": 0.01662805596119865,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-01-12821"
+    },
+    {
+      "weight": 0.0023429726169071907,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-03-32395"
+    },
+    {
+      "weight": 0.00917756660566671,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-02-19954"
+    },
+    {
+      "weight": 0.06913104425493166,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-00-03550"
+    },
+    {
+      "weight": 0.03471672372300705,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-02-19428"
+    },
+    {
+      "weight": 0.09158188303468784,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-03-28208"
+    },
+    {
+      "weight": 0.13492694163751207,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-04-21397"
+    },
+    {
+      "weight": 0.03578320924638645,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-00-18103"
+    },
+    {
+      "weight": 0.115845550094555,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-04-07538"
+    },
+    {
+      "weight": 0.09515066344804857,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-01-14442"
+    },
+    {
+      "weight": 0.02638352010791334,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-02-12464"
+    },
+    {
+      "weight": 0.11863038479042043,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-00-10175"
+    },
+    {
+      "weight": 0.010577568027192008,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-01-00328"
+    },
+    {
+      "weight": 0.08620432061497918,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-03-33522"
+    },
+    {
+      "weight": 0.045684635819549624,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-01-15199"
+    },
+    {
+      "weight": 0.05586931385065519,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-03-33496"
+    },
+    {
+      "weight": 0.07519143758945845,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-01-04200"
+    },
+    {
+      "weight": 0.026283732785499003,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-04-20730"
+    },
+    {
+      "weight": 0.025503779694146744,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-02-21262"
+    },
+    {
+      "weight": 0.003804962894771391,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-02-12080"
+    },
+    {
+      "weight": 0.03323746506047209,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-01-12836"
+    },
+    {
+      "weight": 0.02099883429599636,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-02-21197"
+    },
+    {
+      "weight": 0.07823075092552989,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-02-19916"
+    },
+    {
+      "weight": 0.1416116770219913,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-02-00066"
+    },
+    {
+      "weight": 0.11090449091130128,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-02-07834"
+    },
+    {
+      "weight": 0.029213944873774933,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-02-19975"
+    },
+    {
+      "weight": 0.03052940071018262,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-04-23982"
+    },
+    {
+      "weight": 0.08079013322634143,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-04-10510"
+    },
+    {
+      "weight": 0.07331269611416225,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-03-14289"
+    },
+    {
+      "weight": 0.18403585274370993,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-02-34371"
+    },
+    {
+      "weight": 0.11343871495471292,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-00-21114"
+    },
+    {
+      "weight": 0.04758958980449868,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-02-08143"
+    },
+    {
+      "weight": 0.014703748748767564,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-01-11933"
+    },
+    {
+      "weight": 0.057842762917489576,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-03-33502"
+    },
+    {
+      "weight": 0.06921562268922288,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-04-09942"
+    },
+    {
+      "weight": 0.12499816338543746,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-03-11258"
+    },
+    {
+      "weight": 0.07297048774693926,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.11508496462423168,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.4593380667967384,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.027216193537908495,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.12763222228038185,
+      "source": "clueweb09-en0000-00-19229",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.05404360003484443,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-02-26152"
+    },
+    {
+      "weight": 0.058509348881917944,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-02-18367"
+    },
+    {
+      "weight": 0.07063268868051287,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-02-07832"
+    },
+    {
+      "weight": 0.07667854486094772,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-02-07827"
+    },
+    {
+      "weight": 0.09440661256345995,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-04-18769"
+    },
+    {
+      "weight": 0.008100778151258647,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-01-12821"
+    },
+    {
+      "weight": 0.07043847395313751,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-03-32395"
+    },
+    {
+      "weight": 0.11089386974759474,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-02-19954"
+    },
+    {
+      "weight": 0.1885302852953037,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-00-03550"
+    },
+    {
+      "weight": 0.057548644037304975,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-02-19428"
+    },
+    {
+      "weight": 0.1747386100598196,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-03-28208"
+    },
+    {
+      "weight": 0.019685150412404928,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-04-21397"
+    },
+    {
+      "weight": 0.09656480469345252,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-00-18103"
+    },
+    {
+      "weight": 0.008333993888958835,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-04-07538"
+    },
+    {
+      "weight": 0.04810762237345734,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-01-14442"
+    },
+    {
+      "weight": 0.08393519894115276,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-02-12464"
+    },
+    {
+      "weight": 0.16936637782248687,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-00-10175"
+    },
+    {
+      "weight": 0.02598234613089412,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-01-00328"
+    },
+    {
+      "weight": 0.03808023445699171,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-03-33522"
+    },
+    {
+      "weight": 0.05387669268104134,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-01-15199"
+    },
+    {
+      "weight": 0.0031290165992613472,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-03-33496"
+    },
+    {
+      "weight": 0.03567180230238609,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-01-04200"
+    },
+    {
+      "weight": 0.03830273079225954,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-04-20730"
+    },
+    {
+      "weight": 0.0935206892155872,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-02-21262"
+    },
+    {
+      "weight": 0.0901117717777914,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-02-12080"
+    },
+    {
+      "weight": 0.019051964630348195,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-01-12836"
+    },
+    {
+      "weight": 0.09972293106724717,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-02-21197"
+    },
+    {
+      "weight": 0.1748840927730282,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-02-19916"
+    },
+    {
+      "weight": 0.0063176008822023455,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-02-00066"
+    },
+    {
+      "weight": 0.08344820770821082,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-02-07834"
+    },
+    {
+      "weight": 0.12462402174973075,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-02-19975"
+    },
+    {
+      "weight": 0.028156972837107608,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-04-23982"
+    },
+    {
+      "weight": 0.00904220186252036,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-04-10510"
+    },
+    {
+      "weight": 0.0722681713971084,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-03-14289"
+    },
+    {
+      "weight": 0.12452596547839745,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-02-34371"
+    },
+    {
+      "weight": 0.24625855118465279,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-00-21114"
+    },
+    {
+      "weight": 0.007729291220545553,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-04-09889"
+    },
+    {
+      "weight": 0.25010848897634863,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-02-08143"
+    },
+    {
+      "weight": 0.018251394309900415,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-01-11933"
+    },
+    {
+      "weight": 0.010449352450738525,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-03-33502"
+    },
+    {
+      "weight": 0.013017998155778976,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-04-09942"
+    },
+    {
+      "weight": 0.14779360025038257,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-03-11258"
+    },
+    {
+      "weight": 0.19687502865694928,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.26524928214731325,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.11160953981648669,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.016535294112402288,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.04164044471296491,
+      "source": "clueweb09-en0000-00-26076",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.08983482136525489,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-03-33522"
+    },
+    {
+      "weight": 0.011836596764562834,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-02-07832"
+    },
+    {
+      "weight": 0.027386178225880187,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-02-07827"
+    },
+    {
+      "weight": 0.13030676190235468,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-04-18769"
+    },
+    {
+      "weight": 0.13678939609605167,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-02-26152"
+    },
+    {
+      "weight": 0.03441785513592399,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-01-12821"
+    },
+    {
+      "weight": 0.04871501927631128,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-03-32395"
+    },
+    {
+      "weight": 0.07843178744501722,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-02-19954"
+    },
+    {
+      "weight": 0.07110958646927334,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-00-03550"
+    },
+    {
+      "weight": 0.028313790272834205,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-02-19428"
+    },
+    {
+      "weight": 0.0840739023494177,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-03-28208"
+    },
+    {
+      "weight": 0.04677802229513084,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-04-21397"
+    },
+    {
+      "weight": 0.04489354034210935,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-00-18103"
+    },
+    {
+      "weight": 0.00029552556842493694,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-04-07538"
+    },
+    {
+      "weight": 0.0828385356290402,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-01-14442"
+    },
+    {
+      "weight": 0.06559840796698546,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-02-12464"
+    },
+    {
+      "weight": 0.12779829541612964,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-00-10175"
+    },
+    {
+      "weight": 0.037481034874802255,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-01-00328"
+    },
+    {
+      "weight": 0.10556279968653481,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-01-15199"
+    },
+    {
+      "weight": 0.06669505904707984,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-03-33496"
+    },
+    {
+      "weight": 0.01882012395068644,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-01-04200"
+    },
+    {
+      "weight": 0.06938363004943793,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-04-20730"
+    },
+    {
+      "weight": 0.06519843687771254,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-02-21262"
+    },
+    {
+      "weight": 0.012950919895605484,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-02-12080"
+    },
+    {
+      "weight": 0.0001599934882987597,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-01-12836"
+    },
+    {
+      "weight": 0.05988967750147656,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-02-21197"
+    },
+    {
+      "weight": 0.15757283736797723,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-02-19916"
+    },
+    {
+      "weight": 0.05641535393443542,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-02-00066"
+    },
+    {
+      "weight": 0.029218782782515218,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-02-07834"
+    },
+    {
+      "weight": 0.08475424564846301,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-02-19975"
+    },
+    {
+      "weight": 0.08726000558401137,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-04-23982"
+    },
+    {
+      "weight": 0.043371012722422275,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-04-10510"
+    },
+    {
+      "weight": 0.15540105489808165,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-03-14289"
+    },
+    {
+      "weight": 0.1288499121911305,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-02-34371"
+    },
+    {
+      "weight": 0.11786343511322739,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-00-21114"
+    },
+    {
+      "weight": 0.030805185915355082,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-04-09889"
+    },
+    {
+      "weight": 0.0779267067149878,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-02-08143"
+    },
+    {
+      "weight": 0.036965818925743354,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-01-11933"
+    },
+    {
+      "weight": 0.05423961779605646,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-03-33502"
+    },
+    {
+      "weight": 0.0104609953020387,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-04-09942"
+    },
+    {
+      "weight": 0.08460547024402187,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-03-11258"
+    },
+    {
+      "weight": 0.13204061720267735,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.1380683355461183,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.1785845307534225,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.003150077143213803,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.038692044040063545,
+      "source": "clueweb09-en0000-02-18367",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.508365177550645,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-02-07827"
+    },
+    {
+      "weight": 0.03625459880813353,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-04-18769"
+    },
+    {
+      "weight": 0.07078025719464365,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-02-26152"
+    },
+    {
+      "weight": 0.021640414600657465,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-01-12821"
+    },
+    {
+      "weight": 0.12401301550456045,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-03-32395"
+    },
+    {
+      "weight": 0.15152451363891783,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-02-19954"
+    },
+    {
+      "weight": 0.04772176207189838,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-00-03550"
+    },
+    {
+      "weight": 0.05953282370286206,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-02-19428"
+    },
+    {
+      "weight": 0.08008086730146635,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-03-28208"
+    },
+    {
+      "weight": 0.02852672854171412,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-04-21397"
+    },
+    {
+      "weight": 0.06315882412691431,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-00-18103"
+    },
+    {
+      "weight": 0.054552371625904206,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-04-07538"
+    },
+    {
+      "weight": 0.11051872239775973,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-01-14442"
+    },
+    {
+      "weight": 0.056444685468205025,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-02-12464"
+    },
+    {
+      "weight": 0.05609554671503303,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-00-10175"
+    },
+    {
+      "weight": 0.11000942126232327,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-01-00328"
+    },
+    {
+      "weight": 0.06694145846922583,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-03-33522"
+    },
+    {
+      "weight": 0.10903707780035732,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-01-15199"
+    },
+    {
+      "weight": 0.07257060474141941,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-03-33496"
+    },
+    {
+      "weight": 0.05706252752183549,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-01-04200"
+    },
+    {
+      "weight": 0.08635356422983365,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-04-20730"
+    },
+    {
+      "weight": 0.06274976410231092,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-02-21262"
+    },
+    {
+      "weight": 0.10348254834287274,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-02-12080"
+    },
+    {
+      "weight": 0.04233662359001866,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-01-12836"
+    },
+    {
+      "weight": 0.07123893767820078,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-02-21197"
+    },
+    {
+      "weight": 0.05314783345767493,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-02-19916"
+    },
+    {
+      "weight": 0.14474008537619643,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-02-00066"
+    },
+    {
+      "weight": 0.5026439166092329,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-02-07834"
+    },
+    {
+      "weight": 0.1329606111811752,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-02-19975"
+    },
+    {
+      "weight": 0.0685483203879218,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-04-23982"
+    },
+    {
+      "weight": 0.053265698271450335,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-04-10510"
+    },
+    {
+      "weight": 0.03366301541293182,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-03-14289"
+    },
+    {
+      "weight": 0.08696596511197541,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-02-34371"
+    },
+    {
+      "weight": 0.05961005975964939,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-00-21114"
+    },
+    {
+      "weight": 0.021979894298098324,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-04-09889"
+    },
+    {
+      "weight": 0.09781912566473538,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-02-08143"
+    },
+    {
+      "weight": 0.031071051099307745,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-01-11933"
+    },
+    {
+      "weight": 0.036849605650017825,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-03-33502"
+    },
+    {
+      "weight": 0.02360597710918655,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-04-09942"
+    },
+    {
+      "weight": 0.09429683116436571,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-03-11258"
+    },
+    {
+      "weight": 0.066167740660531,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.0699399483666181,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.07813740424170046,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.02108224777342227,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.11204002326757934,
+      "source": "clueweb09-en0000-02-07832",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.013434575763141665,
+      "source": "clueweb09-en0000-04-09889",
+      "target": "clueweb09-en0000-02-07827"
+    },
+    {
+      "weight": 0.015103717133710282,
+      "source": "clueweb09-en0000-04-09889",
+      "target": "clueweb09-en0000-04-18769"
+    },
+    {
+      "weight": 0.055313767396033775,
+      "source": "clueweb09-en0000-04-09889",
+      "target": "clueweb09-en0000-02-26152"
+    },
+    {
+      "weight": 0.0016919364396439374,
+      "source": "clueweb09-en0000-04-09889",
+      "target": "clueweb09-en0000-01-12821"
+    },
+    {
+      "weight": 0.10919670951984006,
+      "source": "clueweb09-en0000-04-09889",
+      "target": "clueweb09-en0000-03-32395"
+    },
+    {
+      "weight": 0.05260765498898734,
+      "source": "clueweb09-en0000-04-09889",
+      "target": "clueweb09-en0000-02-19954"
+    },
+    {
+      "weight": 0.006786282961341428,
+      "source": "clueweb09-en0000-04-09889",
+      "target": "clueweb09-en0000-00-03550"
+    },
+    {
+      "weight": 0.04026205168738739,
+      "source": "clueweb09-en0000-04-09889",
+      "target": "clueweb09-en0000-02-19428"
+    },
+    {
+      "weight": 0.08487053405286415,
+      "source": "clueweb09-en0000-04-09889",
+      "target": "clueweb09-en0000-03-28208"
+    },
+    {
+      "weight": 0.02875140081661054,
+      "source": "clueweb09-en0000-04-09889",
+      "target": "clueweb09-en0000-04-21397"
+    },
+    {
+      "weight": 0.031581603704328165,
+      "source": "clueweb09-en0000-04-09889",
+      "target": "clueweb09-en0000-00-18103"
+    },
+    {
+      "weight": 0.011811948154249019,
+      "source": "clueweb09-en0000-04-09889",
+      "target": "clueweb09-en0000-04-07538"
+    },
+    {
+      "weight": 0.08322608007876675,
+      "source": "clueweb09-en0000-04-09889",
+      "target": "clueweb09-en0000-01-14442"
+    },
+    {
+      "weight": 0.002668313029956848,
+      "source": "clueweb09-en0000-04-09889",
+      "target": "clueweb09-en0000-02-12464"
+    },
+    {
+      "weight": 0.06636422322977276,
+      "source": "clueweb09-en0000-04-09889",
+      "target": "clueweb09-en0000-00-10175"
+    },
+    {
+      "weight": 0.11795099342390003,
+      "source": "clueweb09-en0000-04-09889",
+      "target": "clueweb09-en0000-01-00328"
+    },
+    {
+      "weight": 0.048098833580453526,
+      "source": "clueweb09-en0000-04-09889",
+      "target": "clueweb09-en0000-03-33522"
+    },
+    {
+      "weight": 0.014421611146494095,
+      "source": "clueweb09-en0000-04-09889",
+      "target": "clueweb09-en0000-01-15199"
+    },
+    {
+      "weight": 0.043741659923394405,
+      "source": "clueweb09-en0000-04-09889",
+      "target": "clueweb09-en0000-03-33496"
+    },
+    {
+      "weight": 0.008233098430423302,
+      "source": "clueweb09-en0000-04-09889",
+      "target": "clueweb09-en0000-01-04200"
+    },
+    {
+      "weight": 0.08311960905027105,
+      "source": "clueweb09-en0000-04-09889",
+      "target": "clueweb09-en0000-04-20730"
+    },
+    {
+      "weight": 0.06755665629031382,
+      "source": "clueweb09-en0000-04-09889",
+      "target": "clueweb09-en0000-02-21262"
+    },
+    {
+      "weight": 0.11963739490525471,
+      "source": "clueweb09-en0000-04-09889",
+      "target": "clueweb09-en0000-02-12080"
+    },
+    {
+      "weight": 0.03688632354687216,
+      "source": "clueweb09-en0000-04-09889",
+      "target": "clueweb09-en0000-01-12836"
+    },
+    {
+      "weight": 0.06345599302373817,
+      "source": "clueweb09-en0000-04-09889",
+      "target": "clueweb09-en0000-02-21197"
+    },
+    {
+      "weight": 0.03780239303176225,
+      "source": "clueweb09-en0000-04-09889",
+      "target": "clueweb09-en0000-02-19916"
+    },
+    {
+      "weight": 0.013867240208319753,
+      "source": "clueweb09-en0000-04-09889",
+      "target": "clueweb09-en0000-02-00066"
+    },
+    {
+      "weight": 0.005154639944957462,
+      "source": "clueweb09-en0000-04-09889",
+      "target": "clueweb09-en0000-02-07834"
+    },
+    {
+      "weight": 0.030405236524031043,
+      "source": "clueweb09-en0000-04-09889",
+      "target": "clueweb09-en0000-02-19975"
+    },
+    {
+      "weight": 0.03855711357546521,
+      "source": "clueweb09-en0000-04-09889",
+      "target": "clueweb09-en0000-04-23982"
+    },
+    {
+      "weight": 0.05175306749118436,
+      "source": "clueweb09-en0000-04-09889",
+      "target": "clueweb09-en0000-04-10510"
+    },
+    {
+      "weight": 0.06231908735293956,
+      "source": "clueweb09-en0000-04-09889",
+      "target": "clueweb09-en0000-03-14289"
+    },
+    {
+      "weight": 0.06520371816453219,
+      "source": "clueweb09-en0000-04-09889",
+      "target": "clueweb09-en0000-02-34371"
+    },
+    {
+      "weight": 0.04549509305089261,
+      "source": "clueweb09-en0000-04-09889",
+      "target": "clueweb09-en0000-00-21114"
+    },
+    {
+      "weight": 0.02589204950954116,
+      "source": "clueweb09-en0000-04-09889",
+      "target": "clueweb09-en0000-02-08143"
+    },
+    {
+      "weight": 0.030761588481693858,
+      "source": "clueweb09-en0000-04-09889",
+      "target": "clueweb09-en0000-01-11933"
+    },
+    {
+      "weight": 0.023610213826935178,
+      "source": "clueweb09-en0000-04-09889",
+      "target": "clueweb09-en0000-03-33502"
+    },
+    {
+      "weight": 0.0961016333060063,
+      "source": "clueweb09-en0000-04-09889",
+      "target": "clueweb09-en0000-04-09942"
+    },
+    {
+      "weight": 0.01894158856276218,
+      "source": "clueweb09-en0000-04-09889",
+      "target": "clueweb09-en0000-03-11258"
+    },
+    {
+      "weight": 0.01618116903432698,
+      "source": "clueweb09-en0000-04-09889",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.058851103669106175,
+      "source": "clueweb09-en0000-04-09889",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.0286612166162572,
+      "source": "clueweb09-en0000-04-09889",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.012810941382692898,
+      "source": "clueweb09-en0000-04-09889",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.004138792895979737,
+      "source": "clueweb09-en0000-04-09889",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.024667315715495075,
+      "source": "clueweb09-en0000-02-07827",
+      "target": "clueweb09-en0000-04-18769"
+    },
+    {
+      "weight": 0.06668709355812652,
+      "source": "clueweb09-en0000-02-07827",
+      "target": "clueweb09-en0000-02-26152"
+    },
+    {
+      "weight": 0.018625367790637393,
+      "source": "clueweb09-en0000-02-07827",
+      "target": "clueweb09-en0000-01-12821"
+    },
+    {
+      "weight": 0.11760471436471831,
+      "source": "clueweb09-en0000-02-07827",
+      "target": "clueweb09-en0000-03-32395"
+    },
+    {
+      "weight": 0.15227898648789395,
+      "source": "clueweb09-en0000-02-07827",
+      "target": "clueweb09-en0000-02-19954"
+    },
+    {
+      "weight": 0.040843140454053906,
+      "source": "clueweb09-en0000-02-07827",
+      "target": "clueweb09-en0000-00-03550"
+    },
+    {
+      "weight": 0.06600393192017273,
+      "source": "clueweb09-en0000-02-07827",
+      "target": "clueweb09-en0000-02-19428"
+    },
+    {
+      "weight": 0.08616426678821609,
+      "source": "clueweb09-en0000-02-07827",
+      "target": "clueweb09-en0000-03-28208"
+    },
+    {
+      "weight": 0.03783603021137094,
+      "source": "clueweb09-en0000-02-07827",
+      "target": "clueweb09-en0000-04-21397"
+    },
+    {
+      "weight": 0.056709686107907054,
+      "source": "clueweb09-en0000-02-07827",
+      "target": "clueweb09-en0000-00-18103"
+    },
+    {
+      "weight": 0.07341612167910783,
+      "source": "clueweb09-en0000-02-07827",
+      "target": "clueweb09-en0000-04-07538"
+    },
+    {
+      "weight": 0.11018985684515292,
+      "source": "clueweb09-en0000-02-07827",
+      "target": "clueweb09-en0000-01-14442"
+    },
+    {
+      "weight": 0.04988957038001374,
+      "source": "clueweb09-en0000-02-07827",
+      "target": "clueweb09-en0000-02-12464"
+    },
+    {
+      "weight": 0.05815902829069386,
+      "source": "clueweb09-en0000-02-07827",
+      "target": "clueweb09-en0000-00-10175"
+    },
+    {
+      "weight": 0.11552785630682139,
+      "source": "clueweb09-en0000-02-07827",
+      "target": "clueweb09-en0000-01-00328"
+    },
+    {
+      "weight": 0.06636812339834108,
+      "source": "clueweb09-en0000-02-07827",
+      "target": "clueweb09-en0000-03-33522"
+    },
+    {
+      "weight": 0.1051585523319648,
+      "source": "clueweb09-en0000-02-07827",
+      "target": "clueweb09-en0000-01-15199"
+    },
+    {
+      "weight": 0.07296076811271734,
+      "source": "clueweb09-en0000-02-07827",
+      "target": "clueweb09-en0000-03-33496"
+    },
+    {
+      "weight": 0.06449084417929751,
+      "source": "clueweb09-en0000-02-07827",
+      "target": "clueweb09-en0000-01-04200"
+    },
+    {
+      "weight": 0.08704745699572403,
+      "source": "clueweb09-en0000-02-07827",
+      "target": "clueweb09-en0000-04-20730"
+    },
+    {
+      "weight": 0.07072303205380259,
+      "source": "clueweb09-en0000-02-07827",
+      "target": "clueweb09-en0000-02-21262"
+    },
+    {
+      "weight": 0.1015941516395551,
+      "source": "clueweb09-en0000-02-07827",
+      "target": "clueweb09-en0000-02-12080"
+    },
+    {
+      "weight": 0.03960123022089057,
+      "source": "clueweb09-en0000-02-07827",
+      "target": "clueweb09-en0000-01-12836"
+    },
+    {
+      "weight": 0.0800563824060434,
+      "source": "clueweb09-en0000-02-07827",
+      "target": "clueweb09-en0000-02-21197"
+    },
+    {
+      "weight": 0.049933209497725395,
+      "source": "clueweb09-en0000-02-07827",
+      "target": "clueweb09-en0000-02-19916"
+    },
+    {
+      "weight": 0.1469496468237843,
+      "source": "clueweb09-en0000-02-07827",
+      "target": "clueweb09-en0000-02-00066"
+    },
+    {
+      "weight": 0.5753604922542669,
+      "source": "clueweb09-en0000-02-07827",
+      "target": "clueweb09-en0000-02-07834"
+    },
+    {
+      "weight": 0.13102054937343355,
+      "source": "clueweb09-en0000-02-07827",
+      "target": "clueweb09-en0000-02-19975"
+    },
+    {
+      "weight": 0.05495594629804135,
+      "source": "clueweb09-en0000-02-07827",
+      "target": "clueweb09-en0000-04-23982"
+    },
+    {
+      "weight": 0.05894776663092438,
+      "source": "clueweb09-en0000-02-07827",
+      "target": "clueweb09-en0000-04-10510"
+    },
+    {
+      "weight": 0.03160694150575227,
+      "source": "clueweb09-en0000-02-07827",
+      "target": "clueweb09-en0000-03-14289"
+    },
+    {
+      "weight": 0.09154701001884424,
+      "source": "clueweb09-en0000-02-07827",
+      "target": "clueweb09-en0000-02-34371"
+    },
+    {
+      "weight": 0.06004056384292822,
+      "source": "clueweb09-en0000-02-07827",
+      "target": "clueweb09-en0000-00-21114"
+    },
+    {
+      "weight": 0.10356247002242225,
+      "source": "clueweb09-en0000-02-07827",
+      "target": "clueweb09-en0000-02-08143"
+    },
+    {
+      "weight": 0.02496880507594934,
+      "source": "clueweb09-en0000-02-07827",
+      "target": "clueweb09-en0000-01-11933"
+    },
+    {
+      "weight": 0.0347249092547528,
+      "source": "clueweb09-en0000-02-07827",
+      "target": "clueweb09-en0000-03-33502"
+    },
+    {
+      "weight": 0.03732569497454641,
+      "source": "clueweb09-en0000-02-07827",
+      "target": "clueweb09-en0000-04-09942"
+    },
+    {
+      "weight": 0.10642039389016289,
+      "source": "clueweb09-en0000-02-07827",
+      "target": "clueweb09-en0000-03-11258"
+    },
+    {
+      "weight": 0.06117221956038099,
+      "source": "clueweb09-en0000-02-07827",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.07010700913106915,
+      "source": "clueweb09-en0000-02-07827",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.08467960352531989,
+      "source": "clueweb09-en0000-02-07827",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.029264056724296994,
+      "source": "clueweb09-en0000-02-07827",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.12420363267801449,
+      "source": "clueweb09-en0000-02-07827",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.084780746361101,
+      "source": "clueweb09-en0000-04-18769",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.1186624083634622,
+      "source": "clueweb09-en0000-04-18769",
+      "target": "clueweb09-en0000-02-26152"
+    },
+    {
+      "weight": 0.028598910292609525,
+      "source": "clueweb09-en0000-04-18769",
+      "target": "clueweb09-en0000-01-12821"
+    },
+    {
+      "weight": 0.009617120041726768,
+      "source": "clueweb09-en0000-04-18769",
+      "target": "clueweb09-en0000-03-32395"
+    },
+    {
+      "weight": 0.07809249157965903,
+      "source": "clueweb09-en0000-04-18769",
+      "target": "clueweb09-en0000-02-19954"
+    },
+    {
+      "weight": 0.14265226777166728,
+      "source": "clueweb09-en0000-04-18769",
+      "target": "clueweb09-en0000-00-03550"
+    },
+    {
+      "weight": 0.11611492316583272,
+      "source": "clueweb09-en0000-04-18769",
+      "target": "clueweb09-en0000-02-19428"
+    },
+    {
+      "weight": 0.1283482673641373,
+      "source": "clueweb09-en0000-04-18769",
+      "target": "clueweb09-en0000-03-28208"
+    },
+    {
+      "weight": 0.08491308767803174,
+      "source": "clueweb09-en0000-04-18769",
+      "target": "clueweb09-en0000-04-21397"
+    },
+    {
+      "weight": 0.11120494179659945,
+      "source": "clueweb09-en0000-04-18769",
+      "target": "clueweb09-en0000-00-18103"
+    },
+    {
+      "weight": 0.018576797017179736,
+      "source": "clueweb09-en0000-04-18769",
+      "target": "clueweb09-en0000-04-07538"
+    },
+    {
+      "weight": 0.08702881281537778,
+      "source": "clueweb09-en0000-04-18769",
+      "target": "clueweb09-en0000-01-14442"
+    },
+    {
+      "weight": 0.07453563491978032,
+      "source": "clueweb09-en0000-04-18769",
+      "target": "clueweb09-en0000-02-12464"
+    },
+    {
+      "weight": 0.2211498093888976,
+      "source": "clueweb09-en0000-04-18769",
+      "target": "clueweb09-en0000-00-10175"
+    },
+    {
+      "weight": 0.007602061870060295,
+      "source": "clueweb09-en0000-04-18769",
+      "target": "clueweb09-en0000-01-00328"
+    },
+    {
+      "weight": 0.01107543387841825,
+      "source": "clueweb09-en0000-04-18769",
+      "target": "clueweb09-en0000-03-33522"
+    },
+    {
+      "weight": 0.1308118563909032,
+      "source": "clueweb09-en0000-04-18769",
+      "target": "clueweb09-en0000-01-15199"
+    },
+    {
+      "weight": 0.004730644736474998,
+      "source": "clueweb09-en0000-04-18769",
+      "target": "clueweb09-en0000-03-33496"
+    },
+    {
+      "weight": 0.06076380614485233,
+      "source": "clueweb09-en0000-04-18769",
+      "target": "clueweb09-en0000-01-04200"
+    },
+    {
+      "weight": 0.05713679071250399,
+      "source": "clueweb09-en0000-04-18769",
+      "target": "clueweb09-en0000-04-20730"
+    },
+    {
+      "weight": 0.13770521470186947,
+      "source": "clueweb09-en0000-04-18769",
+      "target": "clueweb09-en0000-02-21262"
+    },
+    {
+      "weight": 0.03342525641198146,
+      "source": "clueweb09-en0000-04-18769",
+      "target": "clueweb09-en0000-02-12080"
+    },
+    {
+      "weight": 0.01207164876237643,
+      "source": "clueweb09-en0000-04-18769",
+      "target": "clueweb09-en0000-01-12836"
+    },
+    {
+      "weight": 0.11216009359691315,
+      "source": "clueweb09-en0000-04-18769",
+      "target": "clueweb09-en0000-02-21197"
+    },
+    {
+      "weight": 0.194369011878737,
+      "source": "clueweb09-en0000-04-18769",
+      "target": "clueweb09-en0000-02-19916"
+    },
+    {
+      "weight": 0.08538974241713371,
+      "source": "clueweb09-en0000-04-18769",
+      "target": "clueweb09-en0000-02-00066"
+    },
+    {
+      "weight": 0.032565647756540805,
+      "source": "clueweb09-en0000-04-18769",
+      "target": "clueweb09-en0000-02-07834"
+    },
+    {
+      "weight": 0.11709960541878839,
+      "source": "clueweb09-en0000-04-18769",
+      "target": "clueweb09-en0000-02-19975"
+    },
+    {
+      "weight": 0.04562078174438822,
+      "source": "clueweb09-en0000-04-18769",
+      "target": "clueweb09-en0000-04-23982"
+    },
+    {
+      "weight": 0.01273346649741014,
+      "source": "clueweb09-en0000-04-18769",
+      "target": "clueweb09-en0000-04-10510"
+    },
+    {
+      "weight": 0.15978997377889448,
+      "source": "clueweb09-en0000-04-18769",
+      "target": "clueweb09-en0000-03-14289"
+    },
+    {
+      "weight": 0.21682194734551619,
+      "source": "clueweb09-en0000-04-18769",
+      "target": "clueweb09-en0000-02-34371"
+    },
+    {
+      "weight": 0.15186427644585287,
+      "source": "clueweb09-en0000-04-18769",
+      "target": "clueweb09-en0000-00-21114"
+    },
+    {
+      "weight": 0.108913774778986,
+      "source": "clueweb09-en0000-04-18769",
+      "target": "clueweb09-en0000-02-08143"
+    },
+    {
+      "weight": 0.05401002686048384,
+      "source": "clueweb09-en0000-04-18769",
+      "target": "clueweb09-en0000-01-11933"
+    },
+    {
+      "weight": 0.03452276266340659,
+      "source": "clueweb09-en0000-04-18769",
+      "target": "clueweb09-en0000-03-33502"
+    },
+    {
+      "weight": 0.017170586720227865,
+      "source": "clueweb09-en0000-04-18769",
+      "target": "clueweb09-en0000-04-09942"
+    },
+    {
+      "weight": 0.06660995786056989,
+      "source": "clueweb09-en0000-04-18769",
+      "target": "clueweb09-en0000-03-11258"
+    },
+    {
+      "weight": 0.18985342735678956,
+      "source": "clueweb09-en0000-04-18769",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.14594727401977747,
+      "source": "clueweb09-en0000-04-18769",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.1457649258370265,
+      "source": "clueweb09-en0000-04-18769",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.0964619088533496,
+      "source": "clueweb09-en0000-04-18769",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.004674304480716707,
+      "source": "clueweb09-en0000-02-26152",
+      "target": "clueweb09-en0000-01-12821"
+    },
+    {
+      "weight": 0.01905009692947668,
+      "source": "clueweb09-en0000-02-26152",
+      "target": "clueweb09-en0000-03-32395"
+    },
+    {
+      "weight": 0.09329935756696683,
+      "source": "clueweb09-en0000-02-26152",
+      "target": "clueweb09-en0000-02-19954"
+    },
+    {
+      "weight": 0.06264955763414615,
+      "source": "clueweb09-en0000-02-26152",
+      "target": "clueweb09-en0000-00-03550"
+    },
+    {
+      "weight": 0.030186382376694465,
+      "source": "clueweb09-en0000-02-26152",
+      "target": "clueweb09-en0000-02-19428"
+    },
+    {
+      "weight": 0.13406959441318433,
+      "source": "clueweb09-en0000-02-26152",
+      "target": "clueweb09-en0000-03-28208"
+    },
+    {
+      "weight": 0.01953562163476108,
+      "source": "clueweb09-en0000-02-26152",
+      "target": "clueweb09-en0000-04-21397"
+    },
+    {
+      "weight": 0.09860903783874886,
+      "source": "clueweb09-en0000-02-26152",
+      "target": "clueweb09-en0000-00-18103"
+    },
+    {
+      "weight": 0.009577643988139872,
+      "source": "clueweb09-en0000-02-26152",
+      "target": "clueweb09-en0000-04-07538"
+    },
+    {
+      "weight": 0.06394222437134456,
+      "source": "clueweb09-en0000-02-26152",
+      "target": "clueweb09-en0000-01-14442"
+    },
+    {
+      "weight": 0.033532119561593965,
+      "source": "clueweb09-en0000-02-26152",
+      "target": "clueweb09-en0000-02-12464"
+    },
+    {
+      "weight": 0.11323941695506456,
+      "source": "clueweb09-en0000-02-26152",
+      "target": "clueweb09-en0000-00-10175"
+    },
+    {
+      "weight": 0.040154458216000055,
+      "source": "clueweb09-en0000-02-26152",
+      "target": "clueweb09-en0000-01-00328"
+    },
+    {
+      "weight": 0.0865808865727331,
+      "source": "clueweb09-en0000-02-26152",
+      "target": "clueweb09-en0000-03-33522"
+    },
+    {
+      "weight": 0.15376812858798605,
+      "source": "clueweb09-en0000-02-26152",
+      "target": "clueweb09-en0000-01-15199"
+    },
+    {
+      "weight": 0.05461153473363889,
+      "source": "clueweb09-en0000-02-26152",
+      "target": "clueweb09-en0000-03-33496"
+    },
+    {
+      "weight": 0.05150962403223858,
+      "source": "clueweb09-en0000-02-26152",
+      "target": "clueweb09-en0000-01-04200"
+    },
+    {
+      "weight": 0.06411429631612164,
+      "source": "clueweb09-en0000-02-26152",
+      "target": "clueweb09-en0000-04-20730"
+    },
+    {
+      "weight": 0.1251612784734798,
+      "source": "clueweb09-en0000-02-26152",
+      "target": "clueweb09-en0000-02-21262"
+    },
+    {
+      "weight": 0.003493571165880116,
+      "source": "clueweb09-en0000-02-26152",
+      "target": "clueweb09-en0000-02-12080"
+    },
+    {
+      "weight": 0.03295357766356055,
+      "source": "clueweb09-en0000-02-26152",
+      "target": "clueweb09-en0000-01-12836"
+    },
+    {
+      "weight": 0.11019194239836516,
+      "source": "clueweb09-en0000-02-26152",
+      "target": "clueweb09-en0000-02-21197"
+    },
+    {
+      "weight": 0.14113100844460436,
+      "source": "clueweb09-en0000-02-26152",
+      "target": "clueweb09-en0000-02-19916"
+    },
+    {
+      "weight": 0.06486757869316895,
+      "source": "clueweb09-en0000-02-26152",
+      "target": "clueweb09-en0000-02-00066"
+    },
+    {
+      "weight": 0.08095781840760541,
+      "source": "clueweb09-en0000-02-26152",
+      "target": "clueweb09-en0000-02-07834"
+    },
+    {
+      "weight": 0.10148038528558256,
+      "source": "clueweb09-en0000-02-26152",
+      "target": "clueweb09-en0000-02-19975"
+    },
+    {
+      "weight": 0.13152613058758922,
+      "source": "clueweb09-en0000-02-26152",
+      "target": "clueweb09-en0000-04-23982"
+    },
+    {
+      "weight": 0.04548857061849643,
+      "source": "clueweb09-en0000-02-26152",
+      "target": "clueweb09-en0000-04-10510"
+    },
+    {
+      "weight": 0.17615631320595837,
+      "source": "clueweb09-en0000-02-26152",
+      "target": "clueweb09-en0000-03-14289"
+    },
+    {
+      "weight": 0.09960225648839993,
+      "source": "clueweb09-en0000-02-26152",
+      "target": "clueweb09-en0000-02-34371"
+    },
+    {
+      "weight": 0.13812623369979693,
+      "source": "clueweb09-en0000-02-26152",
+      "target": "clueweb09-en0000-00-21114"
+    },
+    {
+      "weight": 0.0767149766828853,
+      "source": "clueweb09-en0000-02-26152",
+      "target": "clueweb09-en0000-02-08143"
+    },
+    {
+      "weight": 0.02217799846384738,
+      "source": "clueweb09-en0000-02-26152",
+      "target": "clueweb09-en0000-01-11933"
+    },
+    {
+      "weight": 0.05933691152638909,
+      "source": "clueweb09-en0000-02-26152",
+      "target": "clueweb09-en0000-03-33502"
+    },
+    {
+      "weight": 0.013992449228571235,
+      "source": "clueweb09-en0000-02-26152",
+      "target": "clueweb09-en0000-04-09942"
+    },
+    {
+      "weight": 0.1486819922238658,
+      "source": "clueweb09-en0000-02-26152",
+      "target": "clueweb09-en0000-03-11258"
+    },
+    {
+      "weight": 0.12721905805325384,
+      "source": "clueweb09-en0000-02-26152",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.1485790241250755,
+      "source": "clueweb09-en0000-02-26152",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.18143911959958003,
+      "source": "clueweb09-en0000-02-26152",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.02748960236199438,
+      "source": "clueweb09-en0000-02-26152",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.033970293522348705,
+      "source": "clueweb09-en0000-02-26152",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.043254938209410065,
+      "source": "clueweb09-en0000-01-12821",
+      "target": "clueweb09-en0000-03-32395"
+    },
+    {
+      "weight": 0.047036331303235035,
+      "source": "clueweb09-en0000-01-12821",
+      "target": "clueweb09-en0000-04-23982"
+    },
+    {
+      "weight": 0.06206157057413231,
+      "source": "clueweb09-en0000-01-12821",
+      "target": "clueweb09-en0000-02-19954"
+    },
+    {
+      "weight": 0.013764444811873,
+      "source": "clueweb09-en0000-01-12821",
+      "target": "clueweb09-en0000-00-03550"
+    },
+    {
+      "weight": 0.013088668782846757,
+      "source": "clueweb09-en0000-01-12821",
+      "target": "clueweb09-en0000-02-19428"
+    },
+    {
+      "weight": 0.026808667813269293,
+      "source": "clueweb09-en0000-01-12821",
+      "target": "clueweb09-en0000-03-28208"
+    },
+    {
+      "weight": 0.004739098485628812,
+      "source": "clueweb09-en0000-01-12821",
+      "target": "clueweb09-en0000-04-21397"
+    },
+    {
+      "weight": 0.11903300463733113,
+      "source": "clueweb09-en0000-01-12821",
+      "target": "clueweb09-en0000-00-18103"
+    },
+    {
+      "weight": 0.042213719595801114,
+      "source": "clueweb09-en0000-01-12821",
+      "target": "clueweb09-en0000-04-07538"
+    },
+    {
+      "weight": 0.06898743811399632,
+      "source": "clueweb09-en0000-01-12821",
+      "target": "clueweb09-en0000-01-14442"
+    },
+    {
+      "weight": 0.0735542434805625,
+      "source": "clueweb09-en0000-01-12821",
+      "target": "clueweb09-en0000-02-12464"
+    },
+    {
+      "weight": 0.01908306894448686,
+      "source": "clueweb09-en0000-01-12821",
+      "target": "clueweb09-en0000-00-10175"
+    },
+    {
+      "weight": 0.09150221344725051,
+      "source": "clueweb09-en0000-01-12821",
+      "target": "clueweb09-en0000-01-00328"
+    },
+    {
+      "weight": 0.027465843031316384,
+      "source": "clueweb09-en0000-01-12821",
+      "target": "clueweb09-en0000-03-33522"
+    },
+    {
+      "weight": 0.009308011066533006,
+      "source": "clueweb09-en0000-01-12821",
+      "target": "clueweb09-en0000-01-15199"
+    },
+    {
+      "weight": 0.03292410925317002,
+      "source": "clueweb09-en0000-01-12821",
+      "target": "clueweb09-en0000-03-33496"
+    },
+    {
+      "weight": 0.009042659922854135,
+      "source": "clueweb09-en0000-01-12821",
+      "target": "clueweb09-en0000-01-04200"
+    },
+    {
+      "weight": 0.023047380830195974,
+      "source": "clueweb09-en0000-01-12821",
+      "target": "clueweb09-en0000-04-20730"
+    },
+    {
+      "weight": 0.04280235509158392,
+      "source": "clueweb09-en0000-01-12821",
+      "target": "clueweb09-en0000-02-21262"
+    },
+    {
+      "weight": 0.0543428575280307,
+      "source": "clueweb09-en0000-01-12821",
+      "target": "clueweb09-en0000-02-12080"
+    },
+    {
+      "weight": 0.5985606553834997,
+      "source": "clueweb09-en0000-01-12821",
+      "target": "clueweb09-en0000-01-12836"
+    },
+    {
+      "weight": 0.047344612151648535,
+      "source": "clueweb09-en0000-01-12821",
+      "target": "clueweb09-en0000-02-21197"
+    },
+    {
+      "weight": 0.007770271166041232,
+      "source": "clueweb09-en0000-01-12821",
+      "target": "clueweb09-en0000-02-19916"
+    },
+    {
+      "weight": 0.05808524663704984,
+      "source": "clueweb09-en0000-01-12821",
+      "target": "clueweb09-en0000-02-00066"
+    },
+    {
+      "weight": 0.029296906427567215,
+      "source": "clueweb09-en0000-01-12821",
+      "target": "clueweb09-en0000-02-07834"
+    },
+    {
+      "weight": 0.04297496047396976,
+      "source": "clueweb09-en0000-01-12821",
+      "target": "clueweb09-en0000-02-19975"
+    },
+    {
+      "weight": 0.008108543811650382,
+      "source": "clueweb09-en0000-01-12821",
+      "target": "clueweb09-en0000-04-10510"
+    },
+    {
+      "weight": 0.05081863400654307,
+      "source": "clueweb09-en0000-01-12821",
+      "target": "clueweb09-en0000-03-14289"
+    },
+    {
+      "weight": 0.0034887818627693523,
+      "source": "clueweb09-en0000-01-12821",
+      "target": "clueweb09-en0000-02-34371"
+    },
+    {
+      "weight": 0.02070904998470413,
+      "source": "clueweb09-en0000-01-12821",
+      "target": "clueweb09-en0000-00-21114"
+    },
+    {
+      "weight": 0.03107388727253224,
+      "source": "clueweb09-en0000-01-12821",
+      "target": "clueweb09-en0000-02-08143"
+    },
+    {
+      "weight": 0.02557382280350018,
+      "source": "clueweb09-en0000-01-12821",
+      "target": "clueweb09-en0000-01-11933"
+    },
+    {
+      "weight": 0.018961329464274534,
+      "source": "clueweb09-en0000-01-12821",
+      "target": "clueweb09-en0000-03-33502"
+    },
+    {
+      "weight": 0.04144553201188583,
+      "source": "clueweb09-en0000-01-12821",
+      "target": "clueweb09-en0000-04-09942"
+    },
+    {
+      "weight": 0.01661336147892012,
+      "source": "clueweb09-en0000-01-12821",
+      "target": "clueweb09-en0000-03-11258"
+    },
+    {
+      "weight": 0.0059609119213025474,
+      "source": "clueweb09-en0000-01-12821",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.026626106328462185,
+      "source": "clueweb09-en0000-01-12821",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.04773731170969753,
+      "source": "clueweb09-en0000-01-12821",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.01898543869507785,
+      "source": "clueweb09-en0000-01-12821",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.0006456752564838464,
+      "source": "clueweb09-en0000-01-12821",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.025212707672219503,
+      "source": "clueweb09-en0000-03-32395",
+      "target": "clueweb09-en0000-04-23982"
+    },
+    {
+      "weight": 0.05491904783199009,
+      "source": "clueweb09-en0000-03-32395",
+      "target": "clueweb09-en0000-02-19954"
+    },
+    {
+      "weight": 0.08768321802623857,
+      "source": "clueweb09-en0000-03-32395",
+      "target": "clueweb09-en0000-00-03550"
+    },
+    {
+      "weight": 0.010305000935277198,
+      "source": "clueweb09-en0000-03-32395",
+      "target": "clueweb09-en0000-02-19428"
+    },
+    {
+      "weight": 0.05800987041572414,
+      "source": "clueweb09-en0000-03-32395",
+      "target": "clueweb09-en0000-03-28208"
+    },
+    {
+      "weight": 0.10753907115865591,
+      "source": "clueweb09-en0000-03-32395",
+      "target": "clueweb09-en0000-04-21397"
+    },
+    {
+      "weight": 0.020180869459770268,
+      "source": "clueweb09-en0000-03-32395",
+      "target": "clueweb09-en0000-00-18103"
+    },
+    {
+      "weight": 0.09175761085797762,
+      "source": "clueweb09-en0000-03-32395",
+      "target": "clueweb09-en0000-04-07538"
+    },
+    {
+      "weight": 0.06331131584052696,
+      "source": "clueweb09-en0000-03-32395",
+      "target": "clueweb09-en0000-01-14442"
+    },
+    {
+      "weight": 0.061044295468358545,
+      "source": "clueweb09-en0000-03-32395",
+      "target": "clueweb09-en0000-02-12464"
+    },
+    {
+      "weight": 0.1230243553267758,
+      "source": "clueweb09-en0000-03-32395",
+      "target": "clueweb09-en0000-00-10175"
+    },
+    {
+      "weight": 0.04756177970239772,
+      "source": "clueweb09-en0000-03-32395",
+      "target": "clueweb09-en0000-01-00328"
+    },
+    {
+      "weight": 0.1203173199327503,
+      "source": "clueweb09-en0000-03-32395",
+      "target": "clueweb09-en0000-03-33522"
+    },
+    {
+      "weight": 0.027300918194221868,
+      "source": "clueweb09-en0000-03-32395",
+      "target": "clueweb09-en0000-01-15199"
+    },
+    {
+      "weight": 0.07140056578644516,
+      "source": "clueweb09-en0000-03-32395",
+      "target": "clueweb09-en0000-03-33496"
+    },
+    {
+      "weight": 0.10976000972825539,
+      "source": "clueweb09-en0000-03-32395",
+      "target": "clueweb09-en0000-01-04200"
+    },
+    {
+      "weight": 0.004259683353143751,
+      "source": "clueweb09-en0000-03-32395",
+      "target": "clueweb09-en0000-04-20730"
+    },
+    {
+      "weight": 0.019687784274091902,
+      "source": "clueweb09-en0000-03-32395",
+      "target": "clueweb09-en0000-02-21262"
+    },
+    {
+      "weight": 0.011768671726522073,
+      "source": "clueweb09-en0000-03-32395",
+      "target": "clueweb09-en0000-02-12080"
+    },
+    {
+      "weight": 0.07555054285944562,
+      "source": "clueweb09-en0000-03-32395",
+      "target": "clueweb09-en0000-01-12836"
+    },
+    {
+      "weight": 0.012815956754721247,
+      "source": "clueweb09-en0000-03-32395",
+      "target": "clueweb09-en0000-02-21197"
+    },
+    {
+      "weight": 0.006517292538357422,
+      "source": "clueweb09-en0000-03-32395",
+      "target": "clueweb09-en0000-02-19916"
+    },
+    {
+      "weight": 0.11864098891035013,
+      "source": "clueweb09-en0000-03-32395",
+      "target": "clueweb09-en0000-02-00066"
+    },
+    {
+      "weight": 0.11989189894011809,
+      "source": "clueweb09-en0000-03-32395",
+      "target": "clueweb09-en0000-02-07834"
+    },
+    {
+      "weight": 0.049974503319963226,
+      "source": "clueweb09-en0000-03-32395",
+      "target": "clueweb09-en0000-02-19975"
+    },
+    {
+      "weight": 0.0930164974201293,
+      "source": "clueweb09-en0000-03-32395",
+      "target": "clueweb09-en0000-04-10510"
+    },
+    {
+      "weight": 0.006543304943242623,
+      "source": "clueweb09-en0000-03-32395",
+      "target": "clueweb09-en0000-03-14289"
+    },
+    {
+      "weight": 0.06830054453984524,
+      "source": "clueweb09-en0000-03-32395",
+      "target": "clueweb09-en0000-02-34371"
+    },
+    {
+      "weight": 0.11622700431040667,
+      "source": "clueweb09-en0000-03-32395",
+      "target": "clueweb09-en0000-00-21114"
+    },
+    {
+      "weight": 0.09135757247362475,
+      "source": "clueweb09-en0000-03-32395",
+      "target": "clueweb09-en0000-02-08143"
+    },
+    {
+      "weight": 0.06996914960572842,
+      "source": "clueweb09-en0000-03-32395",
+      "target": "clueweb09-en0000-01-11933"
+    },
+    {
+      "weight": 0.10416016340259282,
+      "source": "clueweb09-en0000-03-32395",
+      "target": "clueweb09-en0000-03-33502"
+    },
+    {
+      "weight": 0.051779771733966085,
+      "source": "clueweb09-en0000-03-32395",
+      "target": "clueweb09-en0000-04-09942"
+    },
+    {
+      "weight": 0.04238985648839988,
+      "source": "clueweb09-en0000-03-32395",
+      "target": "clueweb09-en0000-03-11258"
+    },
+    {
+      "weight": 0.07233604720080344,
+      "source": "clueweb09-en0000-03-32395",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.13148875043719888,
+      "source": "clueweb09-en0000-03-32395",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.041723800659974275,
+      "source": "clueweb09-en0000-03-32395",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.0463810790813739,
+      "source": "clueweb09-en0000-03-32395",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.07092962067530473,
+      "source": "clueweb09-en0000-03-32395",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.13330231162396422,
+      "source": "clueweb09-en0000-02-19954",
+      "target": "clueweb09-en0000-03-33502"
+    },
+    {
+      "weight": 0.08811567572805601,
+      "source": "clueweb09-en0000-02-19954",
+      "target": "clueweb09-en0000-00-03550"
+    },
+    {
+      "weight": 0.022421675533043972,
+      "source": "clueweb09-en0000-02-19954",
+      "target": "clueweb09-en0000-02-19428"
+    },
+    {
+      "weight": 0.1175071678864823,
+      "source": "clueweb09-en0000-02-19954",
+      "target": "clueweb09-en0000-03-28208"
+    },
+    {
+      "weight": 0.04414407250589081,
+      "source": "clueweb09-en0000-02-19954",
+      "target": "clueweb09-en0000-04-21397"
+    },
+    {
+      "weight": 0.07618474636376205,
+      "source": "clueweb09-en0000-02-19954",
+      "target": "clueweb09-en0000-00-18103"
+    },
+    {
+      "weight": 0.028231319979713954,
+      "source": "clueweb09-en0000-02-19954",
+      "target": "clueweb09-en0000-04-07538"
+    },
+    {
+      "weight": 0.12193381410200654,
+      "source": "clueweb09-en0000-02-19954",
+      "target": "clueweb09-en0000-01-14442"
+    },
+    {
+      "weight": 0.0749428351511584,
+      "source": "clueweb09-en0000-02-19954",
+      "target": "clueweb09-en0000-02-12464"
+    },
+    {
+      "weight": 0.1060757864301477,
+      "source": "clueweb09-en0000-02-19954",
+      "target": "clueweb09-en0000-00-10175"
+    },
+    {
+      "weight": 0.04206928145374178,
+      "source": "clueweb09-en0000-02-19954",
+      "target": "clueweb09-en0000-01-00328"
+    },
+    {
+      "weight": 0.11947493719017732,
+      "source": "clueweb09-en0000-02-19954",
+      "target": "clueweb09-en0000-03-33522"
+    },
+    {
+      "weight": 0.023908936551647386,
+      "source": "clueweb09-en0000-02-19954",
+      "target": "clueweb09-en0000-01-15199"
+    },
+    {
+      "weight": 0.028794805814513103,
+      "source": "clueweb09-en0000-02-19954",
+      "target": "clueweb09-en0000-01-04200"
+    },
+    {
+      "weight": 0.01724797869024075,
+      "source": "clueweb09-en0000-02-19954",
+      "target": "clueweb09-en0000-04-20730"
+    },
+    {
+      "weight": 0.4898673648144686,
+      "source": "clueweb09-en0000-02-19954",
+      "target": "clueweb09-en0000-02-21262"
+    },
+    {
+      "weight": 0.04651326583887738,
+      "source": "clueweb09-en0000-02-19954",
+      "target": "clueweb09-en0000-02-12080"
+    },
+    {
+      "weight": 0.0825706575596683,
+      "source": "clueweb09-en0000-02-19954",
+      "target": "clueweb09-en0000-01-12836"
+    },
+    {
+      "weight": 0.4965754985870441,
+      "source": "clueweb09-en0000-02-19954",
+      "target": "clueweb09-en0000-02-21197"
+    },
+    {
+      "weight": 0.578385749632825,
+      "source": "clueweb09-en0000-02-19954",
+      "target": "clueweb09-en0000-02-19916"
+    },
+    {
+      "weight": 0.07272730738047073,
+      "source": "clueweb09-en0000-02-19954",
+      "target": "clueweb09-en0000-02-00066"
+    },
+    {
+      "weight": 0.15457305133903798,
+      "source": "clueweb09-en0000-02-19954",
+      "target": "clueweb09-en0000-02-07834"
+    },
+    {
+      "weight": 0.8605944460263176,
+      "source": "clueweb09-en0000-02-19954",
+      "target": "clueweb09-en0000-02-19975"
+    },
+    {
+      "weight": 0.022550072447841796,
+      "source": "clueweb09-en0000-02-19954",
+      "target": "clueweb09-en0000-04-23982"
+    },
+    {
+      "weight": 5.836811204451564e-05,
+      "source": "clueweb09-en0000-02-19954",
+      "target": "clueweb09-en0000-04-10510"
+    },
+    {
+      "weight": 0.06162346107806649,
+      "source": "clueweb09-en0000-02-19954",
+      "target": "clueweb09-en0000-03-14289"
+    },
+    {
+      "weight": 0.0544113006677176,
+      "source": "clueweb09-en0000-02-19954",
+      "target": "clueweb09-en0000-02-34371"
+    },
+    {
+      "weight": 0.15969749157261237,
+      "source": "clueweb09-en0000-02-19954",
+      "target": "clueweb09-en0000-00-21114"
+    },
+    {
+      "weight": 0.19831842955310164,
+      "source": "clueweb09-en0000-02-19954",
+      "target": "clueweb09-en0000-02-08143"
+    },
+    {
+      "weight": 0.04297131208149785,
+      "source": "clueweb09-en0000-02-19954",
+      "target": "clueweb09-en0000-01-11933"
+    },
+    {
+      "weight": 0.058946880840544225,
+      "source": "clueweb09-en0000-02-19954",
+      "target": "clueweb09-en0000-03-33496"
+    },
+    {
+      "weight": 0.08120663583136234,
+      "source": "clueweb09-en0000-02-19954",
+      "target": "clueweb09-en0000-04-09942"
+    },
+    {
+      "weight": 0.0526634082581644,
+      "source": "clueweb09-en0000-02-19954",
+      "target": "clueweb09-en0000-03-11258"
+    },
+    {
+      "weight": 0.160731835511563,
+      "source": "clueweb09-en0000-02-19954",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.18232346055255244,
+      "source": "clueweb09-en0000-02-19954",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.10766373732926537,
+      "source": "clueweb09-en0000-02-19954",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.11359100295247115,
+      "source": "clueweb09-en0000-02-19954",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.05393584155780029,
+      "source": "clueweb09-en0000-02-19954",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.011722431524925359,
+      "source": "clueweb09-en0000-00-03550",
+      "target": "clueweb09-en0000-03-33496"
+    },
+    {
+      "weight": 0.09990591930413184,
+      "source": "clueweb09-en0000-00-03550",
+      "target": "clueweb09-en0000-02-19428"
+    },
+    {
+      "weight": 0.19994407412816018,
+      "source": "clueweb09-en0000-00-03550",
+      "target": "clueweb09-en0000-03-28208"
+    },
+    {
+      "weight": 0.057917273980803596,
+      "source": "clueweb09-en0000-00-03550",
+      "target": "clueweb09-en0000-04-21397"
+    },
+    {
+      "weight": 0.12260547514686926,
+      "source": "clueweb09-en0000-00-03550",
+      "target": "clueweb09-en0000-00-18103"
+    },
+    {
+      "weight": 0.021941267704594036,
+      "source": "clueweb09-en0000-00-03550",
+      "target": "clueweb09-en0000-04-07538"
+    },
+    {
+      "weight": 0.02821896898164189,
+      "source": "clueweb09-en0000-00-03550",
+      "target": "clueweb09-en0000-01-14442"
+    },
+    {
+      "weight": 0.07062424197406225,
+      "source": "clueweb09-en0000-00-03550",
+      "target": "clueweb09-en0000-02-12464"
+    },
+    {
+      "weight": 0.22201200927266873,
+      "source": "clueweb09-en0000-00-03550",
+      "target": "clueweb09-en0000-00-10175"
+    },
+    {
+      "weight": 0.016157821033945696,
+      "source": "clueweb09-en0000-00-03550",
+      "target": "clueweb09-en0000-01-00328"
+    },
+    {
+      "weight": 0.035549191929932444,
+      "source": "clueweb09-en0000-00-03550",
+      "target": "clueweb09-en0000-03-33522"
+    },
+    {
+      "weight": 0.06356892864771746,
+      "source": "clueweb09-en0000-00-03550",
+      "target": "clueweb09-en0000-01-15199"
+    },
+    {
+      "weight": 0.022742822309467003,
+      "source": "clueweb09-en0000-00-03550",
+      "target": "clueweb09-en0000-01-04200"
+    },
+    {
+      "weight": 0.08248809207266405,
+      "source": "clueweb09-en0000-00-03550",
+      "target": "clueweb09-en0000-04-20730"
+    },
+    {
+      "weight": 0.09815201501267734,
+      "source": "clueweb09-en0000-00-03550",
+      "target": "clueweb09-en0000-02-21262"
+    },
+    {
+      "weight": 0.08674805602051627,
+      "source": "clueweb09-en0000-00-03550",
+      "target": "clueweb09-en0000-02-12080"
+    },
+    {
+      "weight": 0.013293280321096113,
+      "source": "clueweb09-en0000-00-03550",
+      "target": "clueweb09-en0000-01-12836"
+    },
+    {
+      "weight": 0.09585891949776704,
+      "source": "clueweb09-en0000-00-03550",
+      "target": "clueweb09-en0000-02-21197"
+    },
+    {
+      "weight": 0.18545699497069823,
+      "source": "clueweb09-en0000-00-03550",
+      "target": "clueweb09-en0000-02-19916"
+    },
+    {
+      "weight": 0.064427491504363,
+      "source": "clueweb09-en0000-00-03550",
+      "target": "clueweb09-en0000-02-00066"
+    },
+    {
+      "weight": 0.05227290103312665,
+      "source": "clueweb09-en0000-00-03550",
+      "target": "clueweb09-en0000-02-07834"
+    },
+    {
+      "weight": 0.10688923990971577,
+      "source": "clueweb09-en0000-00-03550",
+      "target": "clueweb09-en0000-02-19975"
+    },
+    {
+      "weight": 0.06463775007966321,
+      "source": "clueweb09-en0000-00-03550",
+      "target": "clueweb09-en0000-04-23982"
+    },
+    {
+      "weight": 0.03971028746520744,
+      "source": "clueweb09-en0000-00-03550",
+      "target": "clueweb09-en0000-04-10510"
+    },
+    {
+      "weight": 0.13673630465984488,
+      "source": "clueweb09-en0000-00-03550",
+      "target": "clueweb09-en0000-03-14289"
+    },
+    {
+      "weight": 0.14255826299053298,
+      "source": "clueweb09-en0000-00-03550",
+      "target": "clueweb09-en0000-02-34371"
+    },
+    {
+      "weight": 0.18745232635741993,
+      "source": "clueweb09-en0000-00-03550",
+      "target": "clueweb09-en0000-00-21114"
+    },
+    {
+      "weight": 0.19650521833304713,
+      "source": "clueweb09-en0000-00-03550",
+      "target": "clueweb09-en0000-02-08143"
+    },
+    {
+      "weight": 0.0752215098428245,
+      "source": "clueweb09-en0000-00-03550",
+      "target": "clueweb09-en0000-01-11933"
+    },
+    {
+      "weight": 0.023132255660564427,
+      "source": "clueweb09-en0000-00-03550",
+      "target": "clueweb09-en0000-03-33502"
+    },
+    {
+      "weight": 0.012600862339141594,
+      "source": "clueweb09-en0000-00-03550",
+      "target": "clueweb09-en0000-04-09942"
+    },
+    {
+      "weight": 0.09958093972769788,
+      "source": "clueweb09-en0000-00-03550",
+      "target": "clueweb09-en0000-03-11258"
+    },
+    {
+      "weight": 0.3784939086699959,
+      "source": "clueweb09-en0000-00-03550",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.18418041057561718,
+      "source": "clueweb09-en0000-00-03550",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.11680231560399856,
+      "source": "clueweb09-en0000-00-03550",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.039115407422978254,
+      "source": "clueweb09-en0000-00-03550",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.03942248632398071,
+      "source": "clueweb09-en0000-00-03550",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.029564060580961393,
+      "source": "clueweb09-en0000-02-19428",
+      "target": "clueweb09-en0000-03-28208"
+    },
+    {
+      "weight": 0.0025705409081393515,
+      "source": "clueweb09-en0000-02-19428",
+      "target": "clueweb09-en0000-04-21397"
+    },
+    {
+      "weight": 0.01880592362150868,
+      "source": "clueweb09-en0000-02-19428",
+      "target": "clueweb09-en0000-00-18103"
+    },
+    {
+      "weight": 0.08367960341865077,
+      "source": "clueweb09-en0000-02-19428",
+      "target": "clueweb09-en0000-04-07538"
+    },
+    {
+      "weight": 0.0980652636154129,
+      "source": "clueweb09-en0000-02-19428",
+      "target": "clueweb09-en0000-01-14442"
+    },
+    {
+      "weight": 0.07203758518703118,
+      "source": "clueweb09-en0000-02-19428",
+      "target": "clueweb09-en0000-02-12464"
+    },
+    {
+      "weight": 0.1092625172020727,
+      "source": "clueweb09-en0000-02-19428",
+      "target": "clueweb09-en0000-00-10175"
+    },
+    {
+      "weight": 0.0991843884365311,
+      "source": "clueweb09-en0000-02-19428",
+      "target": "clueweb09-en0000-01-00328"
+    },
+    {
+      "weight": 0.04880730401196787,
+      "source": "clueweb09-en0000-02-19428",
+      "target": "clueweb09-en0000-03-33522"
+    },
+    {
+      "weight": 0.11483249155263653,
+      "source": "clueweb09-en0000-02-19428",
+      "target": "clueweb09-en0000-01-15199"
+    },
+    {
+      "weight": 0.02170703009001773,
+      "source": "clueweb09-en0000-02-19428",
+      "target": "clueweb09-en0000-03-33496"
+    },
+    {
+      "weight": 0.043430839971477564,
+      "source": "clueweb09-en0000-02-19428",
+      "target": "clueweb09-en0000-01-04200"
+    },
+    {
+      "weight": 0.009659011382715077,
+      "source": "clueweb09-en0000-02-19428",
+      "target": "clueweb09-en0000-04-20730"
+    },
+    {
+      "weight": 0.11118000535858397,
+      "source": "clueweb09-en0000-02-19428",
+      "target": "clueweb09-en0000-02-21262"
+    },
+    {
+      "weight": 0.01717992270312596,
+      "source": "clueweb09-en0000-02-19428",
+      "target": "clueweb09-en0000-02-12080"
+    },
+    {
+      "weight": 0.020561334482562366,
+      "source": "clueweb09-en0000-02-19428",
+      "target": "clueweb09-en0000-01-12836"
+    },
+    {
+      "weight": 0.08853998293291299,
+      "source": "clueweb09-en0000-02-19428",
+      "target": "clueweb09-en0000-02-21197"
+    },
+    {
+      "weight": 0.11180924156828753,
+      "source": "clueweb09-en0000-02-19428",
+      "target": "clueweb09-en0000-02-19916"
+    },
+    {
+      "weight": 0.06951951254345934,
+      "source": "clueweb09-en0000-02-19428",
+      "target": "clueweb09-en0000-02-00066"
+    },
+    {
+      "weight": 0.06982278509530382,
+      "source": "clueweb09-en0000-02-19428",
+      "target": "clueweb09-en0000-02-07834"
+    },
+    {
+      "weight": 0.061705284194426335,
+      "source": "clueweb09-en0000-02-19428",
+      "target": "clueweb09-en0000-02-19975"
+    },
+    {
+      "weight": 0.007472219951119019,
+      "source": "clueweb09-en0000-02-19428",
+      "target": "clueweb09-en0000-04-23982"
+    },
+    {
+      "weight": 0.0781946693625275,
+      "source": "clueweb09-en0000-02-19428",
+      "target": "clueweb09-en0000-04-10510"
+    },
+    {
+      "weight": 0.1683569694271696,
+      "source": "clueweb09-en0000-02-19428",
+      "target": "clueweb09-en0000-03-14289"
+    },
+    {
+      "weight": 0.0554061550968884,
+      "source": "clueweb09-en0000-02-19428",
+      "target": "clueweb09-en0000-02-34371"
+    },
+    {
+      "weight": 0.08806075107960976,
+      "source": "clueweb09-en0000-02-19428",
+      "target": "clueweb09-en0000-00-21114"
+    },
+    {
+      "weight": 0.019729272255311403,
+      "source": "clueweb09-en0000-02-19428",
+      "target": "clueweb09-en0000-02-08143"
+    },
+    {
+      "weight": 0.09689577152947038,
+      "source": "clueweb09-en0000-02-19428",
+      "target": "clueweb09-en0000-01-11933"
+    },
+    {
+      "weight": 0.015384945742043299,
+      "source": "clueweb09-en0000-02-19428",
+      "target": "clueweb09-en0000-03-33502"
+    },
+    {
+      "weight": 0.03951470622570863,
+      "source": "clueweb09-en0000-02-19428",
+      "target": "clueweb09-en0000-04-09942"
+    },
+    {
+      "weight": 0.006489633429181518,
+      "source": "clueweb09-en0000-02-19428",
+      "target": "clueweb09-en0000-03-11258"
+    },
+    {
+      "weight": 0.08094741957515561,
+      "source": "clueweb09-en0000-02-19428",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.08728932506327913,
+      "source": "clueweb09-en0000-02-19428",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.031084153993727326,
+      "source": "clueweb09-en0000-02-19428",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.041880788762535315,
+      "source": "clueweb09-en0000-02-19428",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.06271786807570812,
+      "source": "clueweb09-en0000-02-19428",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.05366453906526991,
+      "source": "clueweb09-en0000-03-28208",
+      "target": "clueweb09-en0000-04-21397"
+    },
+    {
+      "weight": 0.11584250481342662,
+      "source": "clueweb09-en0000-03-28208",
+      "target": "clueweb09-en0000-00-18103"
+    },
+    {
+      "weight": 0.018086200722945645,
+      "source": "clueweb09-en0000-03-28208",
+      "target": "clueweb09-en0000-04-07538"
+    },
+    {
+      "weight": 0.08264108918454172,
+      "source": "clueweb09-en0000-03-28208",
+      "target": "clueweb09-en0000-01-14442"
+    },
+    {
+      "weight": 0.07497636016329567,
+      "source": "clueweb09-en0000-03-28208",
+      "target": "clueweb09-en0000-02-12464"
+    },
+    {
+      "weight": 0.17775300288530416,
+      "source": "clueweb09-en0000-03-28208",
+      "target": "clueweb09-en0000-00-10175"
+    },
+    {
+      "weight": 0.02680423841440205,
+      "source": "clueweb09-en0000-03-28208",
+      "target": "clueweb09-en0000-01-00328"
+    },
+    {
+      "weight": 0.09085219001109279,
+      "source": "clueweb09-en0000-03-28208",
+      "target": "clueweb09-en0000-03-33522"
+    },
+    {
+      "weight": 0.11544869766228638,
+      "source": "clueweb09-en0000-03-28208",
+      "target": "clueweb09-en0000-01-15199"
+    },
+    {
+      "weight": 0.055680990021486965,
+      "source": "clueweb09-en0000-03-28208",
+      "target": "clueweb09-en0000-03-33496"
+    },
+    {
+      "weight": 0.03708565539854547,
+      "source": "clueweb09-en0000-03-28208",
+      "target": "clueweb09-en0000-01-04200"
+    },
+    {
+      "weight": 0.05184204653259317,
+      "source": "clueweb09-en0000-03-28208",
+      "target": "clueweb09-en0000-04-20730"
+    },
+    {
+      "weight": 0.09007588595210059,
+      "source": "clueweb09-en0000-03-28208",
+      "target": "clueweb09-en0000-02-21262"
+    },
+    {
+      "weight": 0.06165347983086744,
+      "source": "clueweb09-en0000-03-28208",
+      "target": "clueweb09-en0000-02-12080"
+    },
+    {
+      "weight": 0.045526306376274084,
+      "source": "clueweb09-en0000-03-28208",
+      "target": "clueweb09-en0000-01-12836"
+    },
+    {
+      "weight": 0.08954386706806894,
+      "source": "clueweb09-en0000-03-28208",
+      "target": "clueweb09-en0000-02-21197"
+    },
+    {
+      "weight": 0.19025509657627915,
+      "source": "clueweb09-en0000-03-28208",
+      "target": "clueweb09-en0000-02-19916"
+    },
+    {
+      "weight": 0.0793416318968787,
+      "source": "clueweb09-en0000-03-28208",
+      "target": "clueweb09-en0000-02-00066"
+    },
+    {
+      "weight": 0.090383226422456,
+      "source": "clueweb09-en0000-03-28208",
+      "target": "clueweb09-en0000-02-07834"
+    },
+    {
+      "weight": 0.1246852490554542,
+      "source": "clueweb09-en0000-03-28208",
+      "target": "clueweb09-en0000-02-19975"
+    },
+    {
+      "weight": 0.06332211843678603,
+      "source": "clueweb09-en0000-03-28208",
+      "target": "clueweb09-en0000-04-23982"
+    },
+    {
+      "weight": 0.015940620538735017,
+      "source": "clueweb09-en0000-03-28208",
+      "target": "clueweb09-en0000-04-10510"
+    },
+    {
+      "weight": 0.1420251256507864,
+      "source": "clueweb09-en0000-03-28208",
+      "target": "clueweb09-en0000-03-14289"
+    },
+    {
+      "weight": 0.17392741750965246,
+      "source": "clueweb09-en0000-03-28208",
+      "target": "clueweb09-en0000-02-34371"
+    },
+    {
+      "weight": 0.22648205447072334,
+      "source": "clueweb09-en0000-03-28208",
+      "target": "clueweb09-en0000-00-21114"
+    },
+    {
+      "weight": 0.15444442467318475,
+      "source": "clueweb09-en0000-03-28208",
+      "target": "clueweb09-en0000-02-08143"
+    },
+    {
+      "weight": 0.0019877542735113884,
+      "source": "clueweb09-en0000-03-28208",
+      "target": "clueweb09-en0000-01-11933"
+    },
+    {
+      "weight": 0.08070116850683773,
+      "source": "clueweb09-en0000-03-28208",
+      "target": "clueweb09-en0000-03-33502"
+    },
+    {
+      "weight": 0.01791345780406406,
+      "source": "clueweb09-en0000-03-28208",
+      "target": "clueweb09-en0000-04-09942"
+    },
+    {
+      "weight": 0.1279077251901728,
+      "source": "clueweb09-en0000-03-28208",
+      "target": "clueweb09-en0000-03-11258"
+    },
+    {
+      "weight": 0.1965813169465913,
+      "source": "clueweb09-en0000-03-28208",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.240964157894614,
+      "source": "clueweb09-en0000-03-28208",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.15995688427040788,
+      "source": "clueweb09-en0000-03-28208",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.020599683665435187,
+      "source": "clueweb09-en0000-03-28208",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.03145954922293592,
+      "source": "clueweb09-en0000-03-28208",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.012325002333459789,
+      "source": "clueweb09-en0000-04-21397",
+      "target": "clueweb09-en0000-00-18103"
+    },
+    {
+      "weight": 0.013097880532605077,
+      "source": "clueweb09-en0000-04-21397",
+      "target": "clueweb09-en0000-04-07538"
+    },
+    {
+      "weight": 0.11806408212594621,
+      "source": "clueweb09-en0000-04-21397",
+      "target": "clueweb09-en0000-01-14442"
+    },
+    {
+      "weight": 0.04526439943955052,
+      "source": "clueweb09-en0000-04-21397",
+      "target": "clueweb09-en0000-02-12464"
+    },
+    {
+      "weight": 0.08432833538186313,
+      "source": "clueweb09-en0000-04-21397",
+      "target": "clueweb09-en0000-00-10175"
+    },
+    {
+      "weight": 0.15407771189084118,
+      "source": "clueweb09-en0000-04-21397",
+      "target": "clueweb09-en0000-01-00328"
+    },
+    {
+      "weight": 0.1626925672678159,
+      "source": "clueweb09-en0000-04-21397",
+      "target": "clueweb09-en0000-03-33522"
+    },
+    {
+      "weight": 0.02271402456670868,
+      "source": "clueweb09-en0000-04-21397",
+      "target": "clueweb09-en0000-01-15199"
+    },
+    {
+      "weight": 0.13849686769915093,
+      "source": "clueweb09-en0000-04-21397",
+      "target": "clueweb09-en0000-03-33496"
+    },
+    {
+      "weight": 0.020880826365787586,
+      "source": "clueweb09-en0000-04-21397",
+      "target": "clueweb09-en0000-01-04200"
+    },
+    {
+      "weight": 0.11616989088680518,
+      "source": "clueweb09-en0000-04-21397",
+      "target": "clueweb09-en0000-04-20730"
+    },
+    {
+      "weight": 0.0634322419168416,
+      "source": "clueweb09-en0000-04-21397",
+      "target": "clueweb09-en0000-02-21262"
+    },
+    {
+      "weight": 0.112524249576055,
+      "source": "clueweb09-en0000-04-21397",
+      "target": "clueweb09-en0000-02-12080"
+    },
+    {
+      "weight": 0.03191369273022704,
+      "source": "clueweb09-en0000-04-21397",
+      "target": "clueweb09-en0000-01-12836"
+    },
+    {
+      "weight": 0.06163571314481797,
+      "source": "clueweb09-en0000-04-21397",
+      "target": "clueweb09-en0000-02-21197"
+    },
+    {
+      "weight": 0.020923578286837885,
+      "source": "clueweb09-en0000-04-21397",
+      "target": "clueweb09-en0000-02-19916"
+    },
+    {
+      "weight": 0.04224031473721146,
+      "source": "clueweb09-en0000-04-21397",
+      "target": "clueweb09-en0000-02-00066"
+    },
+    {
+      "weight": 0.03463193512938645,
+      "source": "clueweb09-en0000-04-21397",
+      "target": "clueweb09-en0000-02-07834"
+    },
+    {
+      "weight": 0.028393507512926686,
+      "source": "clueweb09-en0000-04-21397",
+      "target": "clueweb09-en0000-02-19975"
+    },
+    {
+      "weight": 0.06791992856172557,
+      "source": "clueweb09-en0000-04-21397",
+      "target": "clueweb09-en0000-04-23982"
+    },
+    {
+      "weight": 0.05704816143387492,
+      "source": "clueweb09-en0000-04-21397",
+      "target": "clueweb09-en0000-04-10510"
+    },
+    {
+      "weight": 0.04284736825992019,
+      "source": "clueweb09-en0000-04-21397",
+      "target": "clueweb09-en0000-03-14289"
+    },
+    {
+      "weight": 0.09716163047051163,
+      "source": "clueweb09-en0000-04-21397",
+      "target": "clueweb09-en0000-02-34371"
+    },
+    {
+      "weight": 0.044546006166080954,
+      "source": "clueweb09-en0000-04-21397",
+      "target": "clueweb09-en0000-00-21114"
+    },
+    {
+      "weight": 0.04385497256633486,
+      "source": "clueweb09-en0000-04-21397",
+      "target": "clueweb09-en0000-02-08143"
+    },
+    {
+      "weight": 0.08477034799269512,
+      "source": "clueweb09-en0000-04-21397",
+      "target": "clueweb09-en0000-01-11933"
+    },
+    {
+      "weight": 0.12270346014598266,
+      "source": "clueweb09-en0000-04-21397",
+      "target": "clueweb09-en0000-03-33502"
+    },
+    {
+      "weight": 0.06666211948522505,
+      "source": "clueweb09-en0000-04-21397",
+      "target": "clueweb09-en0000-04-09942"
+    },
+    {
+      "weight": 0.08303250079585522,
+      "source": "clueweb09-en0000-04-21397",
+      "target": "clueweb09-en0000-03-11258"
+    },
+    {
+      "weight": 0.027091243496235817,
+      "source": "clueweb09-en0000-04-21397",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.05945089111889401,
+      "source": "clueweb09-en0000-04-21397",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.10646595556424554,
+      "source": "clueweb09-en0000-04-21397",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.1200894936175223,
+      "source": "clueweb09-en0000-04-21397",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.0053100524152569495,
+      "source": "clueweb09-en0000-04-21397",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.0028790886441303343,
+      "source": "clueweb09-en0000-00-18103",
+      "target": "clueweb09-en0000-04-07538"
+    },
+    {
+      "weight": 0.024457539729651367,
+      "source": "clueweb09-en0000-00-18103",
+      "target": "clueweb09-en0000-01-14442"
+    },
+    {
+      "weight": 0.019148635707978423,
+      "source": "clueweb09-en0000-00-18103",
+      "target": "clueweb09-en0000-02-12464"
+    },
+    {
+      "weight": 0.10807187549405739,
+      "source": "clueweb09-en0000-00-18103",
+      "target": "clueweb09-en0000-00-10175"
+    },
+    {
+      "weight": 0.0072985445473050525,
+      "source": "clueweb09-en0000-00-18103",
+      "target": "clueweb09-en0000-01-00328"
+    },
+    {
+      "weight": 0.009202685908118236,
+      "source": "clueweb09-en0000-00-18103",
+      "target": "clueweb09-en0000-03-33522"
+    },
+    {
+      "weight": 0.09358317286031825,
+      "source": "clueweb09-en0000-00-18103",
+      "target": "clueweb09-en0000-01-15199"
+    },
+    {
+      "weight": 0.02993399597551638,
+      "source": "clueweb09-en0000-00-18103",
+      "target": "clueweb09-en0000-03-33496"
+    },
+    {
+      "weight": 0.011127890956194042,
+      "source": "clueweb09-en0000-00-18103",
+      "target": "clueweb09-en0000-01-04200"
+    },
+    {
+      "weight": 0.07840520067191092,
+      "source": "clueweb09-en0000-00-18103",
+      "target": "clueweb09-en0000-04-20730"
+    },
+    {
+      "weight": 0.06859124056099186,
+      "source": "clueweb09-en0000-00-18103",
+      "target": "clueweb09-en0000-02-21262"
+    },
+    {
+      "weight": 0.0038749761096970037,
+      "source": "clueweb09-en0000-00-18103",
+      "target": "clueweb09-en0000-02-12080"
+    },
+    {
+      "weight": 0.09958911108604918,
+      "source": "clueweb09-en0000-00-18103",
+      "target": "clueweb09-en0000-01-12836"
+    },
+    {
+      "weight": 0.063444403139848,
+      "source": "clueweb09-en0000-00-18103",
+      "target": "clueweb09-en0000-02-21197"
+    },
+    {
+      "weight": 0.13816331697066597,
+      "source": "clueweb09-en0000-00-18103",
+      "target": "clueweb09-en0000-02-19916"
+    },
+    {
+      "weight": 0.01399762815115757,
+      "source": "clueweb09-en0000-00-18103",
+      "target": "clueweb09-en0000-02-00066"
+    },
+    {
+      "weight": 0.07495295111790035,
+      "source": "clueweb09-en0000-00-18103",
+      "target": "clueweb09-en0000-02-07834"
+    },
+    {
+      "weight": 0.08715924225619043,
+      "source": "clueweb09-en0000-00-18103",
+      "target": "clueweb09-en0000-02-19975"
+    },
+    {
+      "weight": 0.1498774960681768,
+      "source": "clueweb09-en0000-00-18103",
+      "target": "clueweb09-en0000-04-23982"
+    },
+    {
+      "weight": 0.01217298765073016,
+      "source": "clueweb09-en0000-00-18103",
+      "target": "clueweb09-en0000-04-10510"
+    },
+    {
+      "weight": 0.03519914968318116,
+      "source": "clueweb09-en0000-00-18103",
+      "target": "clueweb09-en0000-03-14289"
+    },
+    {
+      "weight": 0.0906691650572341,
+      "source": "clueweb09-en0000-00-18103",
+      "target": "clueweb09-en0000-02-34371"
+    },
+    {
+      "weight": 0.14637430214167524,
+      "source": "clueweb09-en0000-00-18103",
+      "target": "clueweb09-en0000-00-21114"
+    },
+    {
+      "weight": 0.10422753920145955,
+      "source": "clueweb09-en0000-00-18103",
+      "target": "clueweb09-en0000-02-08143"
+    },
+    {
+      "weight": 0.0420997820901885,
+      "source": "clueweb09-en0000-00-18103",
+      "target": "clueweb09-en0000-01-11933"
+    },
+    {
+      "weight": 0.017945449657114754,
+      "source": "clueweb09-en0000-00-18103",
+      "target": "clueweb09-en0000-03-33502"
+    },
+    {
+      "weight": 0.029237191730957957,
+      "source": "clueweb09-en0000-00-18103",
+      "target": "clueweb09-en0000-04-09942"
+    },
+    {
+      "weight": 0.11183095250697461,
+      "source": "clueweb09-en0000-00-18103",
+      "target": "clueweb09-en0000-03-11258"
+    },
+    {
+      "weight": 0.17453332022259838,
+      "source": "clueweb09-en0000-00-18103",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.13875346854275816,
+      "source": "clueweb09-en0000-00-18103",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.13471463103799253,
+      "source": "clueweb09-en0000-00-18103",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.044016741154806804,
+      "source": "clueweb09-en0000-00-18103",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.01262635074427132,
+      "source": "clueweb09-en0000-00-18103",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.06489330155647766,
+      "source": "clueweb09-en0000-04-07538",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.09482114494384142,
+      "source": "clueweb09-en0000-04-07538",
+      "target": "clueweb09-en0000-01-14442"
+    },
+    {
+      "weight": 0.03785698206462551,
+      "source": "clueweb09-en0000-04-07538",
+      "target": "clueweb09-en0000-02-12464"
+    },
+    {
+      "weight": 0.01587801598750138,
+      "source": "clueweb09-en0000-04-07538",
+      "target": "clueweb09-en0000-00-10175"
+    },
+    {
+      "weight": 0.08997885887911372,
+      "source": "clueweb09-en0000-04-07538",
+      "target": "clueweb09-en0000-01-00328"
+    },
+    {
+      "weight": 0.08759699523473019,
+      "source": "clueweb09-en0000-04-07538",
+      "target": "clueweb09-en0000-03-33522"
+    },
+    {
+      "weight": 0.07038828908478145,
+      "source": "clueweb09-en0000-04-07538",
+      "target": "clueweb09-en0000-01-15199"
+    },
+    {
+      "weight": 0.06636686711140083,
+      "source": "clueweb09-en0000-04-07538",
+      "target": "clueweb09-en0000-03-33496"
+    },
+    {
+      "weight": 0.03539806518401689,
+      "source": "clueweb09-en0000-04-07538",
+      "target": "clueweb09-en0000-01-04200"
+    },
+    {
+      "weight": 0.035637291854760056,
+      "source": "clueweb09-en0000-04-07538",
+      "target": "clueweb09-en0000-04-20730"
+    },
+    {
+      "weight": 0.023003395315645325,
+      "source": "clueweb09-en0000-04-07538",
+      "target": "clueweb09-en0000-02-21262"
+    },
+    {
+      "weight": 0.09407198833981667,
+      "source": "clueweb09-en0000-04-07538",
+      "target": "clueweb09-en0000-02-12080"
+    },
+    {
+      "weight": 0.027388556072485803,
+      "source": "clueweb09-en0000-04-07538",
+      "target": "clueweb09-en0000-01-12836"
+    },
+    {
+      "weight": 0.013147551018509174,
+      "source": "clueweb09-en0000-04-07538",
+      "target": "clueweb09-en0000-02-21197"
+    },
+    {
+      "weight": 0.02337598519289119,
+      "source": "clueweb09-en0000-04-07538",
+      "target": "clueweb09-en0000-02-19916"
+    },
+    {
+      "weight": 0.05002551597049654,
+      "source": "clueweb09-en0000-04-07538",
+      "target": "clueweb09-en0000-02-00066"
+    },
+    {
+      "weight": 0.07858807257200573,
+      "source": "clueweb09-en0000-04-07538",
+      "target": "clueweb09-en0000-02-07834"
+    },
+    {
+      "weight": 0.010826460921794734,
+      "source": "clueweb09-en0000-04-07538",
+      "target": "clueweb09-en0000-02-19975"
+    },
+    {
+      "weight": 0.007931613314479224,
+      "source": "clueweb09-en0000-04-07538",
+      "target": "clueweb09-en0000-04-23982"
+    },
+    {
+      "weight": 0.016043401026211934,
+      "source": "clueweb09-en0000-04-07538",
+      "target": "clueweb09-en0000-04-10510"
+    },
+    {
+      "weight": 0.0039954703334559305,
+      "source": "clueweb09-en0000-04-07538",
+      "target": "clueweb09-en0000-03-14289"
+    },
+    {
+      "weight": 0.05375107458900752,
+      "source": "clueweb09-en0000-04-07538",
+      "target": "clueweb09-en0000-02-34371"
+    },
+    {
+      "weight": 0.04328864045208847,
+      "source": "clueweb09-en0000-04-07538",
+      "target": "clueweb09-en0000-00-21114"
+    },
+    {
+      "weight": 0.026082707567770425,
+      "source": "clueweb09-en0000-04-07538",
+      "target": "clueweb09-en0000-02-08143"
+    },
+    {
+      "weight": 0.020515258838572303,
+      "source": "clueweb09-en0000-04-07538",
+      "target": "clueweb09-en0000-01-11933"
+    },
+    {
+      "weight": 0.0714871352211095,
+      "source": "clueweb09-en0000-04-07538",
+      "target": "clueweb09-en0000-03-33502"
+    },
+    {
+      "weight": 0.0019814071556654156,
+      "source": "clueweb09-en0000-04-07538",
+      "target": "clueweb09-en0000-04-09942"
+    },
+    {
+      "weight": 0.05733042529852095,
+      "source": "clueweb09-en0000-04-07538",
+      "target": "clueweb09-en0000-03-11258"
+    },
+    {
+      "weight": 0.017577928556504085,
+      "source": "clueweb09-en0000-04-07538",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.023950041739135397,
+      "source": "clueweb09-en0000-04-07538",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.04414284673996094,
+      "source": "clueweb09-en0000-04-07538",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.07764163811787417,
+      "source": "clueweb09-en0000-04-07538",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.14912090759157026,
+      "source": "clueweb09-en0000-01-14442",
+      "target": "clueweb09-en0000-02-12464"
+    },
+    {
+      "weight": 0.051581538796716675,
+      "source": "clueweb09-en0000-01-14442",
+      "target": "clueweb09-en0000-00-10175"
+    },
+    {
+      "weight": 0.05541313380062074,
+      "source": "clueweb09-en0000-01-14442",
+      "target": "clueweb09-en0000-01-00328"
+    },
+    {
+      "weight": 0.06608910175278826,
+      "source": "clueweb09-en0000-01-14442",
+      "target": "clueweb09-en0000-03-33522"
+    },
+    {
+      "weight": 0.06661675615430807,
+      "source": "clueweb09-en0000-01-14442",
+      "target": "clueweb09-en0000-01-15199"
+    },
+    {
+      "weight": 0.06471747742660217,
+      "source": "clueweb09-en0000-01-14442",
+      "target": "clueweb09-en0000-03-33496"
+    },
+    {
+      "weight": 0.10428563558731296,
+      "source": "clueweb09-en0000-01-14442",
+      "target": "clueweb09-en0000-01-04200"
+    },
+    {
+      "weight": 0.009296736037849751,
+      "source": "clueweb09-en0000-01-14442",
+      "target": "clueweb09-en0000-04-20730"
+    },
+    {
+      "weight": 0.10726573704259001,
+      "source": "clueweb09-en0000-01-14442",
+      "target": "clueweb09-en0000-02-21262"
+    },
+    {
+      "weight": 0.1279913201887708,
+      "source": "clueweb09-en0000-01-14442",
+      "target": "clueweb09-en0000-02-12080"
+    },
+    {
+      "weight": 0.08413942170774424,
+      "source": "clueweb09-en0000-01-14442",
+      "target": "clueweb09-en0000-01-12836"
+    },
+    {
+      "weight": 0.10055130094427711,
+      "source": "clueweb09-en0000-01-14442",
+      "target": "clueweb09-en0000-02-21197"
+    },
+    {
+      "weight": 0.08696613304874967,
+      "source": "clueweb09-en0000-01-14442",
+      "target": "clueweb09-en0000-02-19916"
+    },
+    {
+      "weight": 0.10869785729187664,
+      "source": "clueweb09-en0000-01-14442",
+      "target": "clueweb09-en0000-02-00066"
+    },
+    {
+      "weight": 0.11340810687680469,
+      "source": "clueweb09-en0000-01-14442",
+      "target": "clueweb09-en0000-02-07834"
+    },
+    {
+      "weight": 0.11826690891676228,
+      "source": "clueweb09-en0000-01-14442",
+      "target": "clueweb09-en0000-02-19975"
+    },
+    {
+      "weight": 0.06755552365682815,
+      "source": "clueweb09-en0000-01-14442",
+      "target": "clueweb09-en0000-04-23982"
+    },
+    {
+      "weight": 0.11568249848521717,
+      "source": "clueweb09-en0000-01-14442",
+      "target": "clueweb09-en0000-04-10510"
+    },
+    {
+      "weight": 0.09453875837388681,
+      "source": "clueweb09-en0000-01-14442",
+      "target": "clueweb09-en0000-03-14289"
+    },
+    {
+      "weight": 0.04101536574033826,
+      "source": "clueweb09-en0000-01-14442",
+      "target": "clueweb09-en0000-02-34371"
+    },
+    {
+      "weight": 0.03381974763745532,
+      "source": "clueweb09-en0000-01-14442",
+      "target": "clueweb09-en0000-00-21114"
+    },
+    {
+      "weight": 0.07098438435500354,
+      "source": "clueweb09-en0000-01-14442",
+      "target": "clueweb09-en0000-02-08143"
+    },
+    {
+      "weight": 0.07173563153135532,
+      "source": "clueweb09-en0000-01-14442",
+      "target": "clueweb09-en0000-01-11933"
+    },
+    {
+      "weight": 0.08844764473999334,
+      "source": "clueweb09-en0000-01-14442",
+      "target": "clueweb09-en0000-03-33502"
+    },
+    {
+      "weight": 0.03426345111565743,
+      "source": "clueweb09-en0000-01-14442",
+      "target": "clueweb09-en0000-04-09942"
+    },
+    {
+      "weight": 0.06620512811060375,
+      "source": "clueweb09-en0000-01-14442",
+      "target": "clueweb09-en0000-03-11258"
+    },
+    {
+      "weight": 0.032943341114419544,
+      "source": "clueweb09-en0000-01-14442",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.022725015349729816,
+      "source": "clueweb09-en0000-01-14442",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.03968475010055639,
+      "source": "clueweb09-en0000-01-14442",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.09772481237384234,
+      "source": "clueweb09-en0000-01-14442",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.06935833629344579,
+      "source": "clueweb09-en0000-01-14442",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.056722928355531055,
+      "source": "clueweb09-en0000-02-12464",
+      "target": "clueweb09-en0000-00-10175"
+    },
+    {
+      "weight": 0.08012430469469445,
+      "source": "clueweb09-en0000-02-12464",
+      "target": "clueweb09-en0000-01-00328"
+    },
+    {
+      "weight": 0.10376307731531687,
+      "source": "clueweb09-en0000-02-12464",
+      "target": "clueweb09-en0000-03-33522"
+    },
+    {
+      "weight": 0.05940630174487227,
+      "source": "clueweb09-en0000-02-12464",
+      "target": "clueweb09-en0000-01-15199"
+    },
+    {
+      "weight": 0.10789278343510822,
+      "source": "clueweb09-en0000-02-12464",
+      "target": "clueweb09-en0000-03-33496"
+    },
+    {
+      "weight": 0.06084794649456016,
+      "source": "clueweb09-en0000-02-12464",
+      "target": "clueweb09-en0000-01-04200"
+    },
+    {
+      "weight": 0.004095407880655655,
+      "source": "clueweb09-en0000-02-12464",
+      "target": "clueweb09-en0000-04-20730"
+    },
+    {
+      "weight": 0.05151976115611179,
+      "source": "clueweb09-en0000-02-12464",
+      "target": "clueweb09-en0000-02-21262"
+    },
+    {
+      "weight": 0.030023408645957206,
+      "source": "clueweb09-en0000-02-12464",
+      "target": "clueweb09-en0000-02-12080"
+    },
+    {
+      "weight": 0.09336264882262446,
+      "source": "clueweb09-en0000-02-12464",
+      "target": "clueweb09-en0000-01-12836"
+    },
+    {
+      "weight": 0.032280505436941276,
+      "source": "clueweb09-en0000-02-12464",
+      "target": "clueweb09-en0000-02-21197"
+    },
+    {
+      "weight": 0.140523461352147,
+      "source": "clueweb09-en0000-02-12464",
+      "target": "clueweb09-en0000-02-19916"
+    },
+    {
+      "weight": 0.07814143473663049,
+      "source": "clueweb09-en0000-02-12464",
+      "target": "clueweb09-en0000-02-00066"
+    },
+    {
+      "weight": 0.05739624002740018,
+      "source": "clueweb09-en0000-02-12464",
+      "target": "clueweb09-en0000-02-07834"
+    },
+    {
+      "weight": 0.0979117364054527,
+      "source": "clueweb09-en0000-02-12464",
+      "target": "clueweb09-en0000-02-19975"
+    },
+    {
+      "weight": 0.008519790986239562,
+      "source": "clueweb09-en0000-02-12464",
+      "target": "clueweb09-en0000-04-23982"
+    },
+    {
+      "weight": 0.05809930816507092,
+      "source": "clueweb09-en0000-02-12464",
+      "target": "clueweb09-en0000-04-10510"
+    },
+    {
+      "weight": 0.06320912088369823,
+      "source": "clueweb09-en0000-02-12464",
+      "target": "clueweb09-en0000-03-14289"
+    },
+    {
+      "weight": 0.06047486419374315,
+      "source": "clueweb09-en0000-02-12464",
+      "target": "clueweb09-en0000-02-34371"
+    },
+    {
+      "weight": 0.07769412699936495,
+      "source": "clueweb09-en0000-02-12464",
+      "target": "clueweb09-en0000-00-21114"
+    },
+    {
+      "weight": 0.064499648352494,
+      "source": "clueweb09-en0000-02-12464",
+      "target": "clueweb09-en0000-02-08143"
+    },
+    {
+      "weight": 0.02041220722750081,
+      "source": "clueweb09-en0000-02-12464",
+      "target": "clueweb09-en0000-01-11933"
+    },
+    {
+      "weight": 0.0894069187511548,
+      "source": "clueweb09-en0000-02-12464",
+      "target": "clueweb09-en0000-03-33502"
+    },
+    {
+      "weight": 0.05040083026439257,
+      "source": "clueweb09-en0000-02-12464",
+      "target": "clueweb09-en0000-04-09942"
+    },
+    {
+      "weight": 0.05283263156083706,
+      "source": "clueweb09-en0000-02-12464",
+      "target": "clueweb09-en0000-03-11258"
+    },
+    {
+      "weight": 0.10735286724099868,
+      "source": "clueweb09-en0000-02-12464",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.08864818123968932,
+      "source": "clueweb09-en0000-02-12464",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.06899926224784425,
+      "source": "clueweb09-en0000-02-12464",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.05510836334379232,
+      "source": "clueweb09-en0000-02-12464",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.06509213429788474,
+      "source": "clueweb09-en0000-02-12464",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.09138691778275843,
+      "source": "clueweb09-en0000-00-10175",
+      "target": "clueweb09-en0000-01-00328"
+    },
+    {
+      "weight": 0.0561490747114044,
+      "source": "clueweb09-en0000-00-10175",
+      "target": "clueweb09-en0000-03-33522"
+    },
+    {
+      "weight": 0.12297139487460296,
+      "source": "clueweb09-en0000-00-10175",
+      "target": "clueweb09-en0000-01-15199"
+    },
+    {
+      "weight": 0.004087651874604248,
+      "source": "clueweb09-en0000-00-10175",
+      "target": "clueweb09-en0000-03-33496"
+    },
+    {
+      "weight": 0.02633323563589718,
+      "source": "clueweb09-en0000-00-10175",
+      "target": "clueweb09-en0000-01-04200"
+    },
+    {
+      "weight": 0.11743164220029034,
+      "source": "clueweb09-en0000-00-10175",
+      "target": "clueweb09-en0000-04-20730"
+    },
+    {
+      "weight": 0.14177623888432145,
+      "source": "clueweb09-en0000-00-10175",
+      "target": "clueweb09-en0000-02-21262"
+    },
+    {
+      "weight": 0.09416589063857583,
+      "source": "clueweb09-en0000-00-10175",
+      "target": "clueweb09-en0000-02-12080"
+    },
+    {
+      "weight": 0.01084739675259816,
+      "source": "clueweb09-en0000-00-10175",
+      "target": "clueweb09-en0000-01-12836"
+    },
+    {
+      "weight": 0.13807241633115808,
+      "source": "clueweb09-en0000-00-10175",
+      "target": "clueweb09-en0000-02-21197"
+    },
+    {
+      "weight": 0.19591119341352825,
+      "source": "clueweb09-en0000-00-10175",
+      "target": "clueweb09-en0000-02-19916"
+    },
+    {
+      "weight": 0.06851312407965993,
+      "source": "clueweb09-en0000-00-10175",
+      "target": "clueweb09-en0000-02-00066"
+    },
+    {
+      "weight": 0.060939724577344645,
+      "source": "clueweb09-en0000-00-10175",
+      "target": "clueweb09-en0000-02-07834"
+    },
+    {
+      "weight": 0.12731383798069018,
+      "source": "clueweb09-en0000-00-10175",
+      "target": "clueweb09-en0000-02-19975"
+    },
+    {
+      "weight": 0.10897864227234422,
+      "source": "clueweb09-en0000-00-10175",
+      "target": "clueweb09-en0000-04-23982"
+    },
+    {
+      "weight": 0.008072841647891793,
+      "source": "clueweb09-en0000-00-10175",
+      "target": "clueweb09-en0000-04-10510"
+    },
+    {
+      "weight": 0.15896678142111942,
+      "source": "clueweb09-en0000-00-10175",
+      "target": "clueweb09-en0000-03-14289"
+    },
+    {
+      "weight": 0.17903167148068988,
+      "source": "clueweb09-en0000-00-10175",
+      "target": "clueweb09-en0000-02-34371"
+    },
+    {
+      "weight": 0.23407253019668295,
+      "source": "clueweb09-en0000-00-10175",
+      "target": "clueweb09-en0000-00-21114"
+    },
+    {
+      "weight": 0.18443698152550814,
+      "source": "clueweb09-en0000-00-10175",
+      "target": "clueweb09-en0000-02-08143"
+    },
+    {
+      "weight": 0.07297766594677269,
+      "source": "clueweb09-en0000-00-10175",
+      "target": "clueweb09-en0000-01-11933"
+    },
+    {
+      "weight": 0.0070358916825830065,
+      "source": "clueweb09-en0000-00-10175",
+      "target": "clueweb09-en0000-03-33502"
+    },
+    {
+      "weight": 0.021690142753387986,
+      "source": "clueweb09-en0000-00-10175",
+      "target": "clueweb09-en0000-04-09942"
+    },
+    {
+      "weight": 0.1292586161345337,
+      "source": "clueweb09-en0000-00-10175",
+      "target": "clueweb09-en0000-03-11258"
+    },
+    {
+      "weight": 0.22994773667801827,
+      "source": "clueweb09-en0000-00-10175",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.23843965513355658,
+      "source": "clueweb09-en0000-00-10175",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.19375335678721395,
+      "source": "clueweb09-en0000-00-10175",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.06170523455319621,
+      "source": "clueweb09-en0000-00-10175",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.029855519700945576,
+      "source": "clueweb09-en0000-00-10175",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.12218563443751096,
+      "source": "clueweb09-en0000-01-00328",
+      "target": "clueweb09-en0000-03-33522"
+    },
+    {
+      "weight": 9.713021594204285e-05,
+      "source": "clueweb09-en0000-01-00328",
+      "target": "clueweb09-en0000-01-15199"
+    },
+    {
+      "weight": 0.0855807287249406,
+      "source": "clueweb09-en0000-01-00328",
+      "target": "clueweb09-en0000-03-33496"
+    },
+    {
+      "weight": 0.08995998654932102,
+      "source": "clueweb09-en0000-01-00328",
+      "target": "clueweb09-en0000-01-04200"
+    },
+    {
+      "weight": 0.015470690618117122,
+      "source": "clueweb09-en0000-01-00328",
+      "target": "clueweb09-en0000-04-20730"
+    },
+    {
+      "weight": 0.019732223763850865,
+      "source": "clueweb09-en0000-01-00328",
+      "target": "clueweb09-en0000-02-21262"
+    },
+    {
+      "weight": 0.023245772634364892,
+      "source": "clueweb09-en0000-01-00328",
+      "target": "clueweb09-en0000-02-12080"
+    },
+    {
+      "weight": 0.11518845927217858,
+      "source": "clueweb09-en0000-01-00328",
+      "target": "clueweb09-en0000-01-12836"
+    },
+    {
+      "weight": 0.021814876990106313,
+      "source": "clueweb09-en0000-01-00328",
+      "target": "clueweb09-en0000-02-21197"
+    },
+    {
+      "weight": 0.0010920157742955183,
+      "source": "clueweb09-en0000-01-00328",
+      "target": "clueweb09-en0000-02-19916"
+    },
+    {
+      "weight": 0.08993741958867574,
+      "source": "clueweb09-en0000-01-00328",
+      "target": "clueweb09-en0000-02-00066"
+    },
+    {
+      "weight": 0.11995417939415276,
+      "source": "clueweb09-en0000-01-00328",
+      "target": "clueweb09-en0000-02-07834"
+    },
+    {
+      "weight": 0.03906253029750295,
+      "source": "clueweb09-en0000-01-00328",
+      "target": "clueweb09-en0000-02-19975"
+    },
+    {
+      "weight": 0.05079028307810285,
+      "source": "clueweb09-en0000-01-00328",
+      "target": "clueweb09-en0000-04-23982"
+    },
+    {
+      "weight": 0.0018366374969682742,
+      "source": "clueweb09-en0000-01-00328",
+      "target": "clueweb09-en0000-04-10510"
+    },
+    {
+      "weight": 0.021097717238422797,
+      "source": "clueweb09-en0000-01-00328",
+      "target": "clueweb09-en0000-03-14289"
+    },
+    {
+      "weight": 0.04584344587661604,
+      "source": "clueweb09-en0000-01-00328",
+      "target": "clueweb09-en0000-02-34371"
+    },
+    {
+      "weight": 0.02064510073892878,
+      "source": "clueweb09-en0000-01-00328",
+      "target": "clueweb09-en0000-00-21114"
+    },
+    {
+      "weight": 0.027462939532831854,
+      "source": "clueweb09-en0000-01-00328",
+      "target": "clueweb09-en0000-02-08143"
+    },
+    {
+      "weight": 0.06758509548170832,
+      "source": "clueweb09-en0000-01-00328",
+      "target": "clueweb09-en0000-01-11933"
+    },
+    {
+      "weight": 0.08411466494135156,
+      "source": "clueweb09-en0000-01-00328",
+      "target": "clueweb09-en0000-03-33502"
+    },
+    {
+      "weight": 0.04347891508338586,
+      "source": "clueweb09-en0000-01-00328",
+      "target": "clueweb09-en0000-04-09942"
+    },
+    {
+      "weight": 0.019833579265436496,
+      "source": "clueweb09-en0000-01-00328",
+      "target": "clueweb09-en0000-03-11258"
+    },
+    {
+      "weight": 0.042237501561609214,
+      "source": "clueweb09-en0000-01-00328",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.03468717563173651,
+      "source": "clueweb09-en0000-01-00328",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.0710159371967437,
+      "source": "clueweb09-en0000-01-00328",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.06275128230822102,
+      "source": "clueweb09-en0000-01-00328",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.0966234359392324,
+      "source": "clueweb09-en0000-01-00328",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.0679834853994743,
+      "source": "clueweb09-en0000-03-33522",
+      "target": "clueweb09-en0000-01-15199"
+    },
+    {
+      "weight": 0.2640404885882984,
+      "source": "clueweb09-en0000-03-33522",
+      "target": "clueweb09-en0000-03-33496"
+    },
+    {
+      "weight": 0.11043754529984473,
+      "source": "clueweb09-en0000-03-33522",
+      "target": "clueweb09-en0000-01-04200"
+    },
+    {
+      "weight": 0.1187034153492228,
+      "source": "clueweb09-en0000-03-33522",
+      "target": "clueweb09-en0000-04-20730"
+    },
+    {
+      "weight": 0.07043521686355958,
+      "source": "clueweb09-en0000-03-33522",
+      "target": "clueweb09-en0000-02-21262"
+    },
+    {
+      "weight": 0.11279485557684099,
+      "source": "clueweb09-en0000-03-33522",
+      "target": "clueweb09-en0000-02-12080"
+    },
+    {
+      "weight": 0.038025952115278816,
+      "source": "clueweb09-en0000-03-33522",
+      "target": "clueweb09-en0000-01-12836"
+    },
+    {
+      "weight": 0.07338234929529253,
+      "source": "clueweb09-en0000-03-33522",
+      "target": "clueweb09-en0000-02-21197"
+    },
+    {
+      "weight": 0.06944219851664024,
+      "source": "clueweb09-en0000-03-33522",
+      "target": "clueweb09-en0000-02-19916"
+    },
+    {
+      "weight": 0.1322644418253578,
+      "source": "clueweb09-en0000-03-33522",
+      "target": "clueweb09-en0000-02-00066"
+    },
+    {
+      "weight": 0.06806581498275799,
+      "source": "clueweb09-en0000-03-33522",
+      "target": "clueweb09-en0000-02-07834"
+    },
+    {
+      "weight": 0.10945642091015473,
+      "source": "clueweb09-en0000-03-33522",
+      "target": "clueweb09-en0000-02-19975"
+    },
+    {
+      "weight": 0.10809646222927238,
+      "source": "clueweb09-en0000-03-33522",
+      "target": "clueweb09-en0000-04-23982"
+    },
+    {
+      "weight": 0.12913903078317168,
+      "source": "clueweb09-en0000-03-33522",
+      "target": "clueweb09-en0000-04-10510"
+    },
+    {
+      "weight": 0.09387055317724413,
+      "source": "clueweb09-en0000-03-33522",
+      "target": "clueweb09-en0000-03-14289"
+    },
+    {
+      "weight": 0.06981701765027792,
+      "source": "clueweb09-en0000-03-33522",
+      "target": "clueweb09-en0000-02-34371"
+    },
+    {
+      "weight": 0.04855066169357558,
+      "source": "clueweb09-en0000-03-33522",
+      "target": "clueweb09-en0000-00-21114"
+    },
+    {
+      "weight": 0.049179648965214984,
+      "source": "clueweb09-en0000-03-33522",
+      "target": "clueweb09-en0000-02-08143"
+    },
+    {
+      "weight": 0.05364187388742159,
+      "source": "clueweb09-en0000-03-33522",
+      "target": "clueweb09-en0000-01-11933"
+    },
+    {
+      "weight": 0.28344590326364905,
+      "source": "clueweb09-en0000-03-33522",
+      "target": "clueweb09-en0000-03-33502"
+    },
+    {
+      "weight": 0.09468159685322308,
+      "source": "clueweb09-en0000-03-33522",
+      "target": "clueweb09-en0000-04-09942"
+    },
+    {
+      "weight": 0.06305826032366868,
+      "source": "clueweb09-en0000-03-33522",
+      "target": "clueweb09-en0000-03-11258"
+    },
+    {
+      "weight": 0.04143847774005183,
+      "source": "clueweb09-en0000-03-33522",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.03434004193488982,
+      "source": "clueweb09-en0000-03-33522",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.08500059340585131,
+      "source": "clueweb09-en0000-03-33522",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.0033115339995383186,
+      "source": "clueweb09-en0000-03-33522",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.13554428236522975,
+      "source": "clueweb09-en0000-03-33522",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.07112763300640346,
+      "source": "clueweb09-en0000-01-15199",
+      "target": "clueweb09-en0000-03-33496"
+    },
+    {
+      "weight": 0.04767223806417897,
+      "source": "clueweb09-en0000-01-15199",
+      "target": "clueweb09-en0000-01-04200"
+    },
+    {
+      "weight": 0.07381842892160007,
+      "source": "clueweb09-en0000-01-15199",
+      "target": "clueweb09-en0000-04-20730"
+    },
+    {
+      "weight": 0.09770311182313696,
+      "source": "clueweb09-en0000-01-15199",
+      "target": "clueweb09-en0000-02-21262"
+    },
+    {
+      "weight": 0.004148607210822108,
+      "source": "clueweb09-en0000-01-15199",
+      "target": "clueweb09-en0000-02-12080"
+    },
+    {
+      "weight": 0.019423057698978896,
+      "source": "clueweb09-en0000-01-15199",
+      "target": "clueweb09-en0000-01-12836"
+    },
+    {
+      "weight": 0.07924480914757892,
+      "source": "clueweb09-en0000-01-15199",
+      "target": "clueweb09-en0000-02-21197"
+    },
+    {
+      "weight": 0.1032133898869616,
+      "source": "clueweb09-en0000-01-15199",
+      "target": "clueweb09-en0000-02-19916"
+    },
+    {
+      "weight": 0.08410505894179443,
+      "source": "clueweb09-en0000-01-15199",
+      "target": "clueweb09-en0000-02-00066"
+    },
+    {
+      "weight": 0.09544186555758183,
+      "source": "clueweb09-en0000-01-15199",
+      "target": "clueweb09-en0000-02-07834"
+    },
+    {
+      "weight": 0.047067702081017404,
+      "source": "clueweb09-en0000-01-15199",
+      "target": "clueweb09-en0000-02-19975"
+    },
+    {
+      "weight": 0.10905113733174454,
+      "source": "clueweb09-en0000-01-15199",
+      "target": "clueweb09-en0000-04-23982"
+    },
+    {
+      "weight": 0.030339987995186668,
+      "source": "clueweb09-en0000-01-15199",
+      "target": "clueweb09-en0000-04-10510"
+    },
+    {
+      "weight": 0.13576570862512405,
+      "source": "clueweb09-en0000-01-15199",
+      "target": "clueweb09-en0000-03-14289"
+    },
+    {
+      "weight": 0.06967358395845347,
+      "source": "clueweb09-en0000-01-15199",
+      "target": "clueweb09-en0000-02-34371"
+    },
+    {
+      "weight": 0.11401208067569102,
+      "source": "clueweb09-en0000-01-15199",
+      "target": "clueweb09-en0000-00-21114"
+    },
+    {
+      "weight": 0.05002270664076702,
+      "source": "clueweb09-en0000-01-15199",
+      "target": "clueweb09-en0000-02-08143"
+    },
+    {
+      "weight": 0.06437072393195986,
+      "source": "clueweb09-en0000-01-15199",
+      "target": "clueweb09-en0000-01-11933"
+    },
+    {
+      "weight": 0.03698310720417064,
+      "source": "clueweb09-en0000-01-15199",
+      "target": "clueweb09-en0000-03-33502"
+    },
+    {
+      "weight": 0.004198868851938764,
+      "source": "clueweb09-en0000-01-15199",
+      "target": "clueweb09-en0000-04-09942"
+    },
+    {
+      "weight": 0.08334089794807387,
+      "source": "clueweb09-en0000-01-15199",
+      "target": "clueweb09-en0000-03-11258"
+    },
+    {
+      "weight": 0.0850766910763966,
+      "source": "clueweb09-en0000-01-15199",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.10260029658468339,
+      "source": "clueweb09-en0000-01-15199",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.09834813244169083,
+      "source": "clueweb09-en0000-01-15199",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.031422918660654386,
+      "source": "clueweb09-en0000-01-15199",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.05451161808125593,
+      "source": "clueweb09-en0000-01-15199",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.0840849860858861,
+      "source": "clueweb09-en0000-03-33496",
+      "target": "clueweb09-en0000-01-04200"
+    },
+    {
+      "weight": 0.07896525034911672,
+      "source": "clueweb09-en0000-03-33496",
+      "target": "clueweb09-en0000-04-20730"
+    },
+    {
+      "weight": 0.01136803344404358,
+      "source": "clueweb09-en0000-03-33496",
+      "target": "clueweb09-en0000-02-21262"
+    },
+    {
+      "weight": 0.0840653055036995,
+      "source": "clueweb09-en0000-03-33496",
+      "target": "clueweb09-en0000-02-12080"
+    },
+    {
+      "weight": 0.04041294606015744,
+      "source": "clueweb09-en0000-03-33496",
+      "target": "clueweb09-en0000-01-12836"
+    },
+    {
+      "weight": 0.01190287594870898,
+      "source": "clueweb09-en0000-03-33496",
+      "target": "clueweb09-en0000-02-21197"
+    },
+    {
+      "weight": 0.02096676680143772,
+      "source": "clueweb09-en0000-03-33496",
+      "target": "clueweb09-en0000-02-19916"
+    },
+    {
+      "weight": 0.1102102037582795,
+      "source": "clueweb09-en0000-03-33496",
+      "target": "clueweb09-en0000-02-00066"
+    },
+    {
+      "weight": 0.07808068852433436,
+      "source": "clueweb09-en0000-03-33496",
+      "target": "clueweb09-en0000-02-07834"
+    },
+    {
+      "weight": 0.052048251212342356,
+      "source": "clueweb09-en0000-03-33496",
+      "target": "clueweb09-en0000-02-19975"
+    },
+    {
+      "weight": 0.08831900723769537,
+      "source": "clueweb09-en0000-03-33496",
+      "target": "clueweb09-en0000-04-23982"
+    },
+    {
+      "weight": 0.09389305510737356,
+      "source": "clueweb09-en0000-03-33496",
+      "target": "clueweb09-en0000-04-10510"
+    },
+    {
+      "weight": 0.08923490510150822,
+      "source": "clueweb09-en0000-03-33496",
+      "target": "clueweb09-en0000-03-14289"
+    },
+    {
+      "weight": 0.005653358667154551,
+      "source": "clueweb09-en0000-03-33496",
+      "target": "clueweb09-en0000-02-34371"
+    },
+    {
+      "weight": 0.02871941760200991,
+      "source": "clueweb09-en0000-03-33496",
+      "target": "clueweb09-en0000-00-21114"
+    },
+    {
+      "weight": 0.01148090422875292,
+      "source": "clueweb09-en0000-03-33496",
+      "target": "clueweb09-en0000-02-08143"
+    },
+    {
+      "weight": 0.06016157947915346,
+      "source": "clueweb09-en0000-03-33496",
+      "target": "clueweb09-en0000-01-11933"
+    },
+    {
+      "weight": 0.35423064259875514,
+      "source": "clueweb09-en0000-03-33496",
+      "target": "clueweb09-en0000-03-33502"
+    },
+    {
+      "weight": 0.06898249140043844,
+      "source": "clueweb09-en0000-03-33496",
+      "target": "clueweb09-en0000-04-09942"
+    },
+    {
+      "weight": 0.02135567819402162,
+      "source": "clueweb09-en0000-03-33496",
+      "target": "clueweb09-en0000-03-11258"
+    },
+    {
+      "weight": 0.011083460974498305,
+      "source": "clueweb09-en0000-03-33496",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.03412868930441415,
+      "source": "clueweb09-en0000-03-33496",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.036328018651322624,
+      "source": "clueweb09-en0000-03-33496",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.03453397524042412,
+      "source": "clueweb09-en0000-03-33496",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.11497474061619295,
+      "source": "clueweb09-en0000-03-33496",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.061734559329247984,
+      "source": "clueweb09-en0000-01-04200",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.0595392534221697,
+      "source": "clueweb09-en0000-01-04200",
+      "target": "clueweb09-en0000-04-20730"
+    },
+    {
+      "weight": 0.07761237537408094,
+      "source": "clueweb09-en0000-01-04200",
+      "target": "clueweb09-en0000-02-21262"
+    },
+    {
+      "weight": 0.07182473611505569,
+      "source": "clueweb09-en0000-01-04200",
+      "target": "clueweb09-en0000-02-12080"
+    },
+    {
+      "weight": 0.029451187987294514,
+      "source": "clueweb09-en0000-01-04200",
+      "target": "clueweb09-en0000-01-12836"
+    },
+    {
+      "weight": 0.08282508269635569,
+      "source": "clueweb09-en0000-01-04200",
+      "target": "clueweb09-en0000-02-21197"
+    },
+    {
+      "weight": 0.022392835265108046,
+      "source": "clueweb09-en0000-01-04200",
+      "target": "clueweb09-en0000-02-19916"
+    },
+    {
+      "weight": 0.024978507046933163,
+      "source": "clueweb09-en0000-01-04200",
+      "target": "clueweb09-en0000-02-00066"
+    },
+    {
+      "weight": 0.07088163407910919,
+      "source": "clueweb09-en0000-01-04200",
+      "target": "clueweb09-en0000-02-07834"
+    },
+    {
+      "weight": 0.020173265681894925,
+      "source": "clueweb09-en0000-01-04200",
+      "target": "clueweb09-en0000-02-19975"
+    },
+    {
+      "weight": 0.03350995115642563,
+      "source": "clueweb09-en0000-01-04200",
+      "target": "clueweb09-en0000-04-23982"
+    },
+    {
+      "weight": 0.0710082259090723,
+      "source": "clueweb09-en0000-01-04200",
+      "target": "clueweb09-en0000-04-10510"
+    },
+    {
+      "weight": 0.0792546837289827,
+      "source": "clueweb09-en0000-01-04200",
+      "target": "clueweb09-en0000-03-14289"
+    },
+    {
+      "weight": 0.007994154533839781,
+      "source": "clueweb09-en0000-01-04200",
+      "target": "clueweb09-en0000-02-34371"
+    },
+    {
+      "weight": 0.01764869189654872,
+      "source": "clueweb09-en0000-01-04200",
+      "target": "clueweb09-en0000-00-21114"
+    },
+    {
+      "weight": 0.011456130506306339,
+      "source": "clueweb09-en0000-01-04200",
+      "target": "clueweb09-en0000-02-08143"
+    },
+    {
+      "weight": 0.0539460193953325,
+      "source": "clueweb09-en0000-01-04200",
+      "target": "clueweb09-en0000-01-11933"
+    },
+    {
+      "weight": 0.08529975746428531,
+      "source": "clueweb09-en0000-01-04200",
+      "target": "clueweb09-en0000-03-33502"
+    },
+    {
+      "weight": 0.02601682922365911,
+      "source": "clueweb09-en0000-01-04200",
+      "target": "clueweb09-en0000-04-09942"
+    },
+    {
+      "weight": 0.03543871981173696,
+      "source": "clueweb09-en0000-01-04200",
+      "target": "clueweb09-en0000-03-11258"
+    },
+    {
+      "weight": 0.0035709903491587536,
+      "source": "clueweb09-en0000-01-04200",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.01656111531905824,
+      "source": "clueweb09-en0000-01-04200",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.04026733322300857,
+      "source": "clueweb09-en0000-01-04200",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.036484339691702505,
+      "source": "clueweb09-en0000-01-04200",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.04264530785003762,
+      "source": "clueweb09-en0000-04-20730",
+      "target": "clueweb09-en0000-02-21262"
+    },
+    {
+      "weight": 0.0477702083253837,
+      "source": "clueweb09-en0000-04-20730",
+      "target": "clueweb09-en0000-02-12080"
+    },
+    {
+      "weight": 0.011577475064962317,
+      "source": "clueweb09-en0000-04-20730",
+      "target": "clueweb09-en0000-01-12836"
+    },
+    {
+      "weight": 0.03307565262840639,
+      "source": "clueweb09-en0000-04-20730",
+      "target": "clueweb09-en0000-02-21197"
+    },
+    {
+      "weight": 0.07428655891096703,
+      "source": "clueweb09-en0000-04-20730",
+      "target": "clueweb09-en0000-02-19916"
+    },
+    {
+      "weight": 0.10173913542308166,
+      "source": "clueweb09-en0000-04-20730",
+      "target": "clueweb09-en0000-02-00066"
+    },
+    {
+      "weight": 0.09003944247734186,
+      "source": "clueweb09-en0000-04-20730",
+      "target": "clueweb09-en0000-02-07834"
+    },
+    {
+      "weight": 0.027650586246303677,
+      "source": "clueweb09-en0000-04-20730",
+      "target": "clueweb09-en0000-02-19975"
+    },
+    {
+      "weight": 0.07503491371909521,
+      "source": "clueweb09-en0000-04-20730",
+      "target": "clueweb09-en0000-04-23982"
+    },
+    {
+      "weight": 0.030837655068571057,
+      "source": "clueweb09-en0000-04-20730",
+      "target": "clueweb09-en0000-04-10510"
+    },
+    {
+      "weight": 0.05038070429890518,
+      "source": "clueweb09-en0000-04-20730",
+      "target": "clueweb09-en0000-03-14289"
+    },
+    {
+      "weight": 0.11365550014620673,
+      "source": "clueweb09-en0000-04-20730",
+      "target": "clueweb09-en0000-02-34371"
+    },
+    {
+      "weight": 0.09653735656830698,
+      "source": "clueweb09-en0000-04-20730",
+      "target": "clueweb09-en0000-00-21114"
+    },
+    {
+      "weight": 0.03767595765910736,
+      "source": "clueweb09-en0000-04-20730",
+      "target": "clueweb09-en0000-02-08143"
+    },
+    {
+      "weight": 0.07377848223305494,
+      "source": "clueweb09-en0000-04-20730",
+      "target": "clueweb09-en0000-01-11933"
+    },
+    {
+      "weight": 0.08857539762194278,
+      "source": "clueweb09-en0000-04-20730",
+      "target": "clueweb09-en0000-03-33502"
+    },
+    {
+      "weight": 0.049710868000035324,
+      "source": "clueweb09-en0000-04-20730",
+      "target": "clueweb09-en0000-04-09942"
+    },
+    {
+      "weight": 0.05990202881989082,
+      "source": "clueweb09-en0000-04-20730",
+      "target": "clueweb09-en0000-03-11258"
+    },
+    {
+      "weight": 0.1069230775120712,
+      "source": "clueweb09-en0000-04-20730",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.08086638147634939,
+      "source": "clueweb09-en0000-04-20730",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.10223643241274893,
+      "source": "clueweb09-en0000-04-20730",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.015707348042469427,
+      "source": "clueweb09-en0000-04-20730",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.07392269697557241,
+      "source": "clueweb09-en0000-04-20730",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.013442247777184946,
+      "source": "clueweb09-en0000-02-21262",
+      "target": "clueweb09-en0000-02-12080"
+    },
+    {
+      "weight": 0.07132016460813562,
+      "source": "clueweb09-en0000-02-21262",
+      "target": "clueweb09-en0000-01-12836"
+    },
+    {
+      "weight": 0.7448206593570381,
+      "source": "clueweb09-en0000-02-21262",
+      "target": "clueweb09-en0000-02-21197"
+    },
+    {
+      "weight": 0.2262272288262941,
+      "source": "clueweb09-en0000-02-21262",
+      "target": "clueweb09-en0000-02-19916"
+    },
+    {
+      "weight": 0.04434645436465012,
+      "source": "clueweb09-en0000-02-21262",
+      "target": "clueweb09-en0000-02-00066"
+    },
+    {
+      "weight": 0.07054603590137987,
+      "source": "clueweb09-en0000-02-21262",
+      "target": "clueweb09-en0000-02-07834"
+    },
+    {
+      "weight": 0.4892256119659404,
+      "source": "clueweb09-en0000-02-21262",
+      "target": "clueweb09-en0000-02-19975"
+    },
+    {
+      "weight": 0.011182834516380247,
+      "source": "clueweb09-en0000-02-21262",
+      "target": "clueweb09-en0000-04-23982"
+    },
+    {
+      "weight": 0.02141846151167004,
+      "source": "clueweb09-en0000-02-21262",
+      "target": "clueweb09-en0000-04-10510"
+    },
+    {
+      "weight": 0.13325664982011165,
+      "source": "clueweb09-en0000-02-21262",
+      "target": "clueweb09-en0000-03-14289"
+    },
+    {
+      "weight": 0.0652643519545153,
+      "source": "clueweb09-en0000-02-21262",
+      "target": "clueweb09-en0000-02-34371"
+    },
+    {
+      "weight": 0.16530674065928985,
+      "source": "clueweb09-en0000-02-21262",
+      "target": "clueweb09-en0000-00-21114"
+    },
+    {
+      "weight": 0.14289622830166504,
+      "source": "clueweb09-en0000-02-21262",
+      "target": "clueweb09-en0000-02-08143"
+    },
+    {
+      "weight": 0.010779852773088239,
+      "source": "clueweb09-en0000-02-21262",
+      "target": "clueweb09-en0000-01-11933"
+    },
+    {
+      "weight": 0.05358753997424692,
+      "source": "clueweb09-en0000-02-21262",
+      "target": "clueweb09-en0000-03-33502"
+    },
+    {
+      "weight": 0.03697280390708402,
+      "source": "clueweb09-en0000-02-21262",
+      "target": "clueweb09-en0000-04-09942"
+    },
+    {
+      "weight": 0.07759713919328426,
+      "source": "clueweb09-en0000-02-21262",
+      "target": "clueweb09-en0000-03-11258"
+    },
+    {
+      "weight": 0.14211054238924314,
+      "source": "clueweb09-en0000-02-21262",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.17224913109851014,
+      "source": "clueweb09-en0000-02-21262",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.1047760993290684,
+      "source": "clueweb09-en0000-02-21262",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.04013298855895764,
+      "source": "clueweb09-en0000-02-21262",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.04968152855875374,
+      "source": "clueweb09-en0000-02-21262",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.02326017055994245,
+      "source": "clueweb09-en0000-02-12080",
+      "target": "clueweb09-en0000-04-23982"
+    },
+    {
+      "weight": 0.07931357941117056,
+      "source": "clueweb09-en0000-02-12080",
+      "target": "clueweb09-en0000-01-12836"
+    },
+    {
+      "weight": 0.01638433899314884,
+      "source": "clueweb09-en0000-02-12080",
+      "target": "clueweb09-en0000-02-21197"
+    },
+    {
+      "weight": 0.02579254144067189,
+      "source": "clueweb09-en0000-02-12080",
+      "target": "clueweb09-en0000-02-19916"
+    },
+    {
+      "weight": 0.1082318622189391,
+      "source": "clueweb09-en0000-02-12080",
+      "target": "clueweb09-en0000-02-00066"
+    },
+    {
+      "weight": 0.11227310984380279,
+      "source": "clueweb09-en0000-02-12080",
+      "target": "clueweb09-en0000-02-07834"
+    },
+    {
+      "weight": 0.027434931892203585,
+      "source": "clueweb09-en0000-02-12080",
+      "target": "clueweb09-en0000-02-19975"
+    },
+    {
+      "weight": 0.06251419121368218,
+      "source": "clueweb09-en0000-02-12080",
+      "target": "clueweb09-en0000-04-10510"
+    },
+    {
+      "weight": 0.04423913100521293,
+      "source": "clueweb09-en0000-02-12080",
+      "target": "clueweb09-en0000-03-14289"
+    },
+    {
+      "weight": 0.016892056794996946,
+      "source": "clueweb09-en0000-02-12080",
+      "target": "clueweb09-en0000-02-34371"
+    },
+    {
+      "weight": 0.06995059053136277,
+      "source": "clueweb09-en0000-02-12080",
+      "target": "clueweb09-en0000-00-21114"
+    },
+    {
+      "weight": 0.0423712584347643,
+      "source": "clueweb09-en0000-02-12080",
+      "target": "clueweb09-en0000-02-08143"
+    },
+    {
+      "weight": 0.023643924014632445,
+      "source": "clueweb09-en0000-02-12080",
+      "target": "clueweb09-en0000-01-11933"
+    },
+    {
+      "weight": 0.07342785397441443,
+      "source": "clueweb09-en0000-02-12080",
+      "target": "clueweb09-en0000-03-33502"
+    },
+    {
+      "weight": 0.06864934477070617,
+      "source": "clueweb09-en0000-02-12080",
+      "target": "clueweb09-en0000-04-09942"
+    },
+    {
+      "weight": 0.02867616913525095,
+      "source": "clueweb09-en0000-02-12080",
+      "target": "clueweb09-en0000-03-11258"
+    },
+    {
+      "weight": 0.06664772419722287,
+      "source": "clueweb09-en0000-02-12080",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.0892900249080022,
+      "source": "clueweb09-en0000-02-12080",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.03356171730866486,
+      "source": "clueweb09-en0000-02-12080",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.0009958941845289448,
+      "source": "clueweb09-en0000-02-12080",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.0007362525924556884,
+      "source": "clueweb09-en0000-02-12080",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.0786403961283142,
+      "source": "clueweb09-en0000-01-12836",
+      "target": "clueweb09-en0000-02-21197"
+    },
+    {
+      "weight": 0.024950694662264628,
+      "source": "clueweb09-en0000-01-12836",
+      "target": "clueweb09-en0000-02-19916"
+    },
+    {
+      "weight": 0.07723816332884414,
+      "source": "clueweb09-en0000-01-12836",
+      "target": "clueweb09-en0000-02-00066"
+    },
+    {
+      "weight": 0.05341525891633969,
+      "source": "clueweb09-en0000-01-12836",
+      "target": "clueweb09-en0000-02-07834"
+    },
+    {
+      "weight": 0.07125536171709901,
+      "source": "clueweb09-en0000-01-12836",
+      "target": "clueweb09-en0000-02-19975"
+    },
+    {
+      "weight": 0.022122319344290986,
+      "source": "clueweb09-en0000-01-12836",
+      "target": "clueweb09-en0000-04-23982"
+    },
+    {
+      "weight": 0.0036419952558899293,
+      "source": "clueweb09-en0000-01-12836",
+      "target": "clueweb09-en0000-04-10510"
+    },
+    {
+      "weight": 0.08626530026585533,
+      "source": "clueweb09-en0000-01-12836",
+      "target": "clueweb09-en0000-03-14289"
+    },
+    {
+      "weight": 0.023305008963815377,
+      "source": "clueweb09-en0000-01-12836",
+      "target": "clueweb09-en0000-02-34371"
+    },
+    {
+      "weight": 0.009430443686482937,
+      "source": "clueweb09-en0000-01-12836",
+      "target": "clueweb09-en0000-00-21114"
+    },
+    {
+      "weight": 0.04533211903038503,
+      "source": "clueweb09-en0000-01-12836",
+      "target": "clueweb09-en0000-02-08143"
+    },
+    {
+      "weight": 0.001157152296005659,
+      "source": "clueweb09-en0000-01-12836",
+      "target": "clueweb09-en0000-01-11933"
+    },
+    {
+      "weight": 0.039259044822349765,
+      "source": "clueweb09-en0000-01-12836",
+      "target": "clueweb09-en0000-03-33502"
+    },
+    {
+      "weight": 0.0668242121296414,
+      "source": "clueweb09-en0000-01-12836",
+      "target": "clueweb09-en0000-04-09942"
+    },
+    {
+      "weight": 0.04674834881405965,
+      "source": "clueweb09-en0000-01-12836",
+      "target": "clueweb09-en0000-03-11258"
+    },
+    {
+      "weight": 0.023488297625305243,
+      "source": "clueweb09-en0000-01-12836",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.013438936212913477,
+      "source": "clueweb09-en0000-01-12836",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.024472035119040614,
+      "source": "clueweb09-en0000-01-12836",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.06655725601798634,
+      "source": "clueweb09-en0000-01-12836",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.026809739705051516,
+      "source": "clueweb09-en0000-01-12836",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.10342265712618093,
+      "source": "clueweb09-en0000-02-21197",
+      "target": "clueweb09-en0000-03-14289"
+    },
+    {
+      "weight": 0.22584830916856768,
+      "source": "clueweb09-en0000-02-21197",
+      "target": "clueweb09-en0000-02-19916"
+    },
+    {
+      "weight": 0.04278313848085391,
+      "source": "clueweb09-en0000-02-21197",
+      "target": "clueweb09-en0000-02-00066"
+    },
+    {
+      "weight": 0.07735623867485208,
+      "source": "clueweb09-en0000-02-21197",
+      "target": "clueweb09-en0000-02-07834"
+    },
+    {
+      "weight": 0.4866411296071569,
+      "source": "clueweb09-en0000-02-21197",
+      "target": "clueweb09-en0000-02-19975"
+    },
+    {
+      "weight": 0.015048026588065477,
+      "source": "clueweb09-en0000-02-21197",
+      "target": "clueweb09-en0000-04-23982"
+    },
+    {
+      "weight": 0.020615031035841502,
+      "source": "clueweb09-en0000-02-21197",
+      "target": "clueweb09-en0000-04-10510"
+    },
+    {
+      "weight": 0.06450302929328888,
+      "source": "clueweb09-en0000-02-21197",
+      "target": "clueweb09-en0000-02-34371"
+    },
+    {
+      "weight": 0.16919314572991073,
+      "source": "clueweb09-en0000-02-21197",
+      "target": "clueweb09-en0000-00-21114"
+    },
+    {
+      "weight": 0.14618582294709714,
+      "source": "clueweb09-en0000-02-21197",
+      "target": "clueweb09-en0000-02-08143"
+    },
+    {
+      "weight": 0.00040879972288199173,
+      "source": "clueweb09-en0000-02-21197",
+      "target": "clueweb09-en0000-01-11933"
+    },
+    {
+      "weight": 0.06038385661899781,
+      "source": "clueweb09-en0000-02-21197",
+      "target": "clueweb09-en0000-03-33502"
+    },
+    {
+      "weight": 0.023100257052473205,
+      "source": "clueweb09-en0000-02-21197",
+      "target": "clueweb09-en0000-04-09942"
+    },
+    {
+      "weight": 0.08829050562466056,
+      "source": "clueweb09-en0000-02-21197",
+      "target": "clueweb09-en0000-03-11258"
+    },
+    {
+      "weight": 0.13512516185029944,
+      "source": "clueweb09-en0000-02-21197",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.17876318920037004,
+      "source": "clueweb09-en0000-02-21197",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.0944542575694235,
+      "source": "clueweb09-en0000-02-21197",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.050154840364270425,
+      "source": "clueweb09-en0000-02-21197",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.032945831523264246,
+      "source": "clueweb09-en0000-02-21197",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.08554844258173755,
+      "source": "clueweb09-en0000-02-19916",
+      "target": "clueweb09-en0000-02-00066"
+    },
+    {
+      "weight": 0.05688866835849504,
+      "source": "clueweb09-en0000-02-19916",
+      "target": "clueweb09-en0000-02-07834"
+    },
+    {
+      "weight": 0.582262868048373,
+      "source": "clueweb09-en0000-02-19916",
+      "target": "clueweb09-en0000-02-19975"
+    },
+    {
+      "weight": 0.03924855375580283,
+      "source": "clueweb09-en0000-02-19916",
+      "target": "clueweb09-en0000-04-23982"
+    },
+    {
+      "weight": 0.013966746536427155,
+      "source": "clueweb09-en0000-02-19916",
+      "target": "clueweb09-en0000-04-10510"
+    },
+    {
+      "weight": 0.15278184111689108,
+      "source": "clueweb09-en0000-02-19916",
+      "target": "clueweb09-en0000-03-14289"
+    },
+    {
+      "weight": 0.13333428179663764,
+      "source": "clueweb09-en0000-02-19916",
+      "target": "clueweb09-en0000-02-34371"
+    },
+    {
+      "weight": 0.2059079259310833,
+      "source": "clueweb09-en0000-02-19916",
+      "target": "clueweb09-en0000-00-21114"
+    },
+    {
+      "weight": 0.24787277261025387,
+      "source": "clueweb09-en0000-02-19916",
+      "target": "clueweb09-en0000-02-08143"
+    },
+    {
+      "weight": 0.019093493159407338,
+      "source": "clueweb09-en0000-02-19916",
+      "target": "clueweb09-en0000-01-11933"
+    },
+    {
+      "weight": 0.06708023572833666,
+      "source": "clueweb09-en0000-02-19916",
+      "target": "clueweb09-en0000-03-33502"
+    },
+    {
+      "weight": 0.0263957159069943,
+      "source": "clueweb09-en0000-02-19916",
+      "target": "clueweb09-en0000-04-09942"
+    },
+    {
+      "weight": 0.108889203206459,
+      "source": "clueweb09-en0000-02-19916",
+      "target": "clueweb09-en0000-03-11258"
+    },
+    {
+      "weight": 0.2523031133988518,
+      "source": "clueweb09-en0000-02-19916",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.21876320316907594,
+      "source": "clueweb09-en0000-02-19916",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.18881027305502118,
+      "source": "clueweb09-en0000-02-19916",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.01400476197293754,
+      "source": "clueweb09-en0000-02-19916",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.07592679069877661,
+      "source": "clueweb09-en0000-02-19916",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.14932229319188584,
+      "source": "clueweb09-en0000-02-00066",
+      "target": "clueweb09-en0000-02-07834"
+    },
+    {
+      "weight": 0.06749659558456766,
+      "source": "clueweb09-en0000-02-00066",
+      "target": "clueweb09-en0000-02-19975"
+    },
+    {
+      "weight": 0.10863363889024646,
+      "source": "clueweb09-en0000-02-00066",
+      "target": "clueweb09-en0000-04-23982"
+    },
+    {
+      "weight": 0.08542539454442877,
+      "source": "clueweb09-en0000-02-00066",
+      "target": "clueweb09-en0000-04-10510"
+    },
+    {
+      "weight": 0.11129763443845819,
+      "source": "clueweb09-en0000-02-00066",
+      "target": "clueweb09-en0000-03-14289"
+    },
+    {
+      "weight": 0.07760821846307953,
+      "source": "clueweb09-en0000-02-00066",
+      "target": "clueweb09-en0000-02-34371"
+    },
+    {
+      "weight": 0.01856096981769162,
+      "source": "clueweb09-en0000-02-00066",
+      "target": "clueweb09-en0000-00-21114"
+    },
+    {
+      "weight": 0.1064616025747811,
+      "source": "clueweb09-en0000-02-00066",
+      "target": "clueweb09-en0000-02-08143"
+    },
+    {
+      "weight": 0.08279719433514021,
+      "source": "clueweb09-en0000-02-00066",
+      "target": "clueweb09-en0000-01-11933"
+    },
+    {
+      "weight": 0.12745926568406252,
+      "source": "clueweb09-en0000-02-00066",
+      "target": "clueweb09-en0000-03-33502"
+    },
+    {
+      "weight": 0.02581479017678534,
+      "source": "clueweb09-en0000-02-00066",
+      "target": "clueweb09-en0000-04-09942"
+    },
+    {
+      "weight": 0.07347557899869406,
+      "source": "clueweb09-en0000-02-00066",
+      "target": "clueweb09-en0000-03-11258"
+    },
+    {
+      "weight": 0.004964294012770543,
+      "source": "clueweb09-en0000-02-00066",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.011163597874205733,
+      "source": "clueweb09-en0000-02-00066",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.08252664004354293,
+      "source": "clueweb09-en0000-02-00066",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.08405068569299057,
+      "source": "clueweb09-en0000-02-00066",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.18940049650498025,
+      "source": "clueweb09-en0000-02-00066",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.13321304203482875,
+      "source": "clueweb09-en0000-02-07834",
+      "target": "clueweb09-en0000-02-19975"
+    },
+    {
+      "weight": 0.07007805263595634,
+      "source": "clueweb09-en0000-02-07834",
+      "target": "clueweb09-en0000-04-23982"
+    },
+    {
+      "weight": 0.06365503759280555,
+      "source": "clueweb09-en0000-02-07834",
+      "target": "clueweb09-en0000-04-10510"
+    },
+    {
+      "weight": 0.03195675910061335,
+      "source": "clueweb09-en0000-02-07834",
+      "target": "clueweb09-en0000-03-14289"
+    },
+    {
+      "weight": 0.09626184893416956,
+      "source": "clueweb09-en0000-02-07834",
+      "target": "clueweb09-en0000-02-34371"
+    },
+    {
+      "weight": 0.060406096912624996,
+      "source": "clueweb09-en0000-02-07834",
+      "target": "clueweb09-en0000-00-21114"
+    },
+    {
+      "weight": 0.1131317356022461,
+      "source": "clueweb09-en0000-02-07834",
+      "target": "clueweb09-en0000-02-08143"
+    },
+    {
+      "weight": 0.026515844588033133,
+      "source": "clueweb09-en0000-02-07834",
+      "target": "clueweb09-en0000-01-11933"
+    },
+    {
+      "weight": 0.03945098526684876,
+      "source": "clueweb09-en0000-02-07834",
+      "target": "clueweb09-en0000-03-33502"
+    },
+    {
+      "weight": 0.03802731730660813,
+      "source": "clueweb09-en0000-02-07834",
+      "target": "clueweb09-en0000-04-09942"
+    },
+    {
+      "weight": 0.10920949966468108,
+      "source": "clueweb09-en0000-02-07834",
+      "target": "clueweb09-en0000-03-11258"
+    },
+    {
+      "weight": 0.07204239218019781,
+      "source": "clueweb09-en0000-02-07834",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.07563415968205667,
+      "source": "clueweb09-en0000-02-07834",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.08972794956921315,
+      "source": "clueweb09-en0000-02-07834",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.02863351464956998,
+      "source": "clueweb09-en0000-02-07834",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.13108214378974004,
+      "source": "clueweb09-en0000-02-07834",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.014355169457100247,
+      "source": "clueweb09-en0000-02-19975",
+      "target": "clueweb09-en0000-04-23982"
+    },
+    {
+      "weight": 0.0035773798856554295,
+      "source": "clueweb09-en0000-02-19975",
+      "target": "clueweb09-en0000-04-10510"
+    },
+    {
+      "weight": 0.09301223947904524,
+      "source": "clueweb09-en0000-02-19975",
+      "target": "clueweb09-en0000-03-14289"
+    },
+    {
+      "weight": 0.06577525434398002,
+      "source": "clueweb09-en0000-02-19975",
+      "target": "clueweb09-en0000-02-34371"
+    },
+    {
+      "weight": 0.16258063971335623,
+      "source": "clueweb09-en0000-02-19975",
+      "target": "clueweb09-en0000-00-21114"
+    },
+    {
+      "weight": 0.2011650607077421,
+      "source": "clueweb09-en0000-02-19975",
+      "target": "clueweb09-en0000-02-08143"
+    },
+    {
+      "weight": 0.013409879804926472,
+      "source": "clueweb09-en0000-02-19975",
+      "target": "clueweb09-en0000-01-11933"
+    },
+    {
+      "weight": 0.11325705657621943,
+      "source": "clueweb09-en0000-02-19975",
+      "target": "clueweb09-en0000-03-33502"
+    },
+    {
+      "weight": 0.07395903597609643,
+      "source": "clueweb09-en0000-02-19975",
+      "target": "clueweb09-en0000-04-09942"
+    },
+    {
+      "weight": 0.059222521087229585,
+      "source": "clueweb09-en0000-02-19975",
+      "target": "clueweb09-en0000-03-11258"
+    },
+    {
+      "weight": 0.17106870287346554,
+      "source": "clueweb09-en0000-02-19975",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.18596376432168793,
+      "source": "clueweb09-en0000-02-19975",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.11916871420291386,
+      "source": "clueweb09-en0000-02-19975",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.08874671389751732,
+      "source": "clueweb09-en0000-02-19975",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.05668271766517419,
+      "source": "clueweb09-en0000-02-19975",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.03778544535655137,
+      "source": "clueweb09-en0000-04-23982",
+      "target": "clueweb09-en0000-04-10510"
+    },
+    {
+      "weight": 0.049195192306924596,
+      "source": "clueweb09-en0000-04-23982",
+      "target": "clueweb09-en0000-03-14289"
+    },
+    {
+      "weight": 0.10463575862672536,
+      "source": "clueweb09-en0000-04-23982",
+      "target": "clueweb09-en0000-02-34371"
+    },
+    {
+      "weight": 0.11035579374903559,
+      "source": "clueweb09-en0000-04-23982",
+      "target": "clueweb09-en0000-00-21114"
+    },
+    {
+      "weight": 0.0120859467797102,
+      "source": "clueweb09-en0000-04-23982",
+      "target": "clueweb09-en0000-02-08143"
+    },
+    {
+      "weight": 0.005796774734527443,
+      "source": "clueweb09-en0000-04-23982",
+      "target": "clueweb09-en0000-01-11933"
+    },
+    {
+      "weight": 0.07302315005648108,
+      "source": "clueweb09-en0000-04-23982",
+      "target": "clueweb09-en0000-03-33502"
+    },
+    {
+      "weight": 0.010084814509594198,
+      "source": "clueweb09-en0000-04-23982",
+      "target": "clueweb09-en0000-04-09942"
+    },
+    {
+      "weight": 0.178738426391731,
+      "source": "clueweb09-en0000-04-23982",
+      "target": "clueweb09-en0000-03-11258"
+    },
+    {
+      "weight": 0.09804743536615068,
+      "source": "clueweb09-en0000-04-23982",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.09793351796454486,
+      "source": "clueweb09-en0000-04-23982",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.1515103247085584,
+      "source": "clueweb09-en0000-04-23982",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.022250422300226225,
+      "source": "clueweb09-en0000-04-23982",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.02957811212016881,
+      "source": "clueweb09-en0000-04-23982",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.018129180566273884,
+      "source": "clueweb09-en0000-04-10510",
+      "target": "clueweb09-en0000-03-14289"
+    },
+    {
+      "weight": 0.02363856587741875,
+      "source": "clueweb09-en0000-04-10510",
+      "target": "clueweb09-en0000-02-34371"
+    },
+    {
+      "weight": 0.05152456485405699,
+      "source": "clueweb09-en0000-04-10510",
+      "target": "clueweb09-en0000-00-21114"
+    },
+    {
+      "weight": 0.04260149654430123,
+      "source": "clueweb09-en0000-04-10510",
+      "target": "clueweb09-en0000-02-08143"
+    },
+    {
+      "weight": 0.11188687928821706,
+      "source": "clueweb09-en0000-04-10510",
+      "target": "clueweb09-en0000-01-11933"
+    },
+    {
+      "weight": 0.09780664272639372,
+      "source": "clueweb09-en0000-04-10510",
+      "target": "clueweb09-en0000-03-33502"
+    },
+    {
+      "weight": 0.022011138584897227,
+      "source": "clueweb09-en0000-04-10510",
+      "target": "clueweb09-en0000-04-09942"
+    },
+    {
+      "weight": 0.022505394125194922,
+      "source": "clueweb09-en0000-04-10510",
+      "target": "clueweb09-en0000-03-11258"
+    },
+    {
+      "weight": 0.057386932568169735,
+      "source": "clueweb09-en0000-04-10510",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.049715528562883415,
+      "source": "clueweb09-en0000-04-10510",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.02895953451528932,
+      "source": "clueweb09-en0000-04-10510",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.10905024703596511,
+      "source": "clueweb09-en0000-04-10510",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.0732949618964489,
+      "source": "clueweb09-en0000-04-10510",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.08981073572685783,
+      "source": "clueweb09-en0000-03-14289",
+      "target": "clueweb09-en0000-02-34371"
+    },
+    {
+      "weight": 0.14601311170133469,
+      "source": "clueweb09-en0000-03-14289",
+      "target": "clueweb09-en0000-00-21114"
+    },
+    {
+      "weight": 0.08697383853873886,
+      "source": "clueweb09-en0000-03-14289",
+      "target": "clueweb09-en0000-02-08143"
+    },
+    {
+      "weight": 0.06378495679958851,
+      "source": "clueweb09-en0000-03-14289",
+      "target": "clueweb09-en0000-01-11933"
+    },
+    {
+      "weight": 0.06013781637906623,
+      "source": "clueweb09-en0000-03-14289",
+      "target": "clueweb09-en0000-03-33502"
+    },
+    {
+      "weight": 0.049066676193415315,
+      "source": "clueweb09-en0000-03-14289",
+      "target": "clueweb09-en0000-04-09942"
+    },
+    {
+      "weight": 0.06981347178399722,
+      "source": "clueweb09-en0000-03-14289",
+      "target": "clueweb09-en0000-03-11258"
+    },
+    {
+      "weight": 0.14363392989132684,
+      "source": "clueweb09-en0000-03-14289",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.15779730939511705,
+      "source": "clueweb09-en0000-03-14289",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.15010078490002587,
+      "source": "clueweb09-en0000-03-14289",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.0075444314485423325,
+      "source": "clueweb09-en0000-03-14289",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.1090649470417453,
+      "source": "clueweb09-en0000-03-14289",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.19347954481695706,
+      "source": "clueweb09-en0000-02-34371",
+      "target": "clueweb09-en0000-00-21114"
+    },
+    {
+      "weight": 0.0954701264567368,
+      "source": "clueweb09-en0000-02-34371",
+      "target": "clueweb09-en0000-02-08143"
+    },
+    {
+      "weight": 0.00021545281745494194,
+      "source": "clueweb09-en0000-02-34371",
+      "target": "clueweb09-en0000-01-11933"
+    },
+    {
+      "weight": 0.045481504467421496,
+      "source": "clueweb09-en0000-02-34371",
+      "target": "clueweb09-en0000-03-33502"
+    },
+    {
+      "weight": 0.014802944629279002,
+      "source": "clueweb09-en0000-02-34371",
+      "target": "clueweb09-en0000-04-09942"
+    },
+    {
+      "weight": 0.19475845533386715,
+      "source": "clueweb09-en0000-02-34371",
+      "target": "clueweb09-en0000-03-11258"
+    },
+    {
+      "weight": 0.148223688798913,
+      "source": "clueweb09-en0000-02-34371",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.20283113942899156,
+      "source": "clueweb09-en0000-02-34371",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.22848024622427654,
+      "source": "clueweb09-en0000-02-34371",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.01808760583979796,
+      "source": "clueweb09-en0000-02-34371",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.037451630156778215,
+      "source": "clueweb09-en0000-02-34371",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.25831000859264963,
+      "source": "clueweb09-en0000-00-21114",
+      "target": "clueweb09-en0000-02-08143"
+    },
+    {
+      "weight": 0.05065686443353956,
+      "source": "clueweb09-en0000-00-21114",
+      "target": "clueweb09-en0000-01-11933"
+    },
+    {
+      "weight": 0.021174812983134617,
+      "source": "clueweb09-en0000-00-21114",
+      "target": "clueweb09-en0000-03-33502"
+    },
+    {
+      "weight": 0.01219958186946335,
+      "source": "clueweb09-en0000-00-21114",
+      "target": "clueweb09-en0000-04-09942"
+    },
+    {
+      "weight": 0.20170339430310502,
+      "source": "clueweb09-en0000-00-21114",
+      "target": "clueweb09-en0000-03-11258"
+    },
+    {
+      "weight": 0.1963018287479107,
+      "source": "clueweb09-en0000-00-21114",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.7293421724935294,
+      "source": "clueweb09-en0000-00-21114",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.20813955895997682,
+      "source": "clueweb09-en0000-00-21114",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.007117695335018714,
+      "source": "clueweb09-en0000-00-21114",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.0185954263361926,
+      "source": "clueweb09-en0000-00-21114",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.004554998554728407,
+      "source": "clueweb09-en0000-02-08143",
+      "target": "clueweb09-en0000-01-11933"
+    },
+    {
+      "weight": 0.04261514303407421,
+      "source": "clueweb09-en0000-02-08143",
+      "target": "clueweb09-en0000-03-33502"
+    },
+    {
+      "weight": 0.026819285378026025,
+      "source": "clueweb09-en0000-02-08143",
+      "target": "clueweb09-en0000-04-09942"
+    },
+    {
+      "weight": 0.1442497469451398,
+      "source": "clueweb09-en0000-02-08143",
+      "target": "clueweb09-en0000-03-11258"
+    },
+    {
+      "weight": 0.2434142465682353,
+      "source": "clueweb09-en0000-02-08143",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.27901581761606686,
+      "source": "clueweb09-en0000-02-08143",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.11504985476641061,
+      "source": "clueweb09-en0000-02-08143",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.025581646302131,
+      "source": "clueweb09-en0000-02-08143",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.09610219914049534,
+      "source": "clueweb09-en0000-02-08143",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.005956871320153212,
+      "source": "clueweb09-en0000-01-11933",
+      "target": "clueweb09-en0000-03-33502"
+    },
+    {
+      "weight": 0.03356092920231912,
+      "source": "clueweb09-en0000-01-11933",
+      "target": "clueweb09-en0000-04-09942"
+    },
+    {
+      "weight": 0.02352040369611985,
+      "source": "clueweb09-en0000-01-11933",
+      "target": "clueweb09-en0000-03-11258"
+    },
+    {
+      "weight": 0.05578083378931331,
+      "source": "clueweb09-en0000-01-11933",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.035231290537101945,
+      "source": "clueweb09-en0000-01-11933",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.024224823470233137,
+      "source": "clueweb09-en0000-01-11933",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.019012967110316747,
+      "source": "clueweb09-en0000-01-11933",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.08396187282858669,
+      "source": "clueweb09-en0000-01-11933",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.049673131368676904,
+      "source": "clueweb09-en0000-03-33502",
+      "target": "clueweb09-en0000-04-09942"
+    },
+    {
+      "weight": 0.04510025566136533,
+      "source": "clueweb09-en0000-03-33502",
+      "target": "clueweb09-en0000-03-11258"
+    },
+    {
+      "weight": 0.019428645733688077,
+      "source": "clueweb09-en0000-03-33502",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.019072466369018715,
+      "source": "clueweb09-en0000-03-33502",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.0605480578639348,
+      "source": "clueweb09-en0000-03-33502",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.08286223144489935,
+      "source": "clueweb09-en0000-03-33502",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.11509119941898627,
+      "source": "clueweb09-en0000-03-33502",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.007860423899870739,
+      "source": "clueweb09-en0000-04-09942",
+      "target": "clueweb09-en0000-03-11258"
+    },
+    {
+      "weight": 0.006570688139960534,
+      "source": "clueweb09-en0000-04-09942",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.01904830841195848,
+      "source": "clueweb09-en0000-04-09942",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.02695354898498059,
+      "source": "clueweb09-en0000-04-09942",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.04468290128405661,
+      "source": "clueweb09-en0000-04-09942",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.023635917321793043,
+      "source": "clueweb09-en0000-04-09942",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.12068483968346688,
+      "source": "clueweb09-en0000-03-11258",
+      "target": "clueweb09-en0000-00-20622"
+    },
+    {
+      "weight": 0.21211749903318033,
+      "source": "clueweb09-en0000-03-11258",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.23520226909195596,
+      "source": "clueweb09-en0000-03-11258",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.007764271521924826,
+      "source": "clueweb09-en0000-03-11258",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.019096592272847213,
+      "source": "clueweb09-en0000-03-11258",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.2202248268472009,
+      "source": "clueweb09-en0000-00-20622",
+      "target": "clueweb09-en0000-00-21045"
+    },
+    {
+      "weight": 0.18651480988742397,
+      "source": "clueweb09-en0000-00-20622",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.042529465547491374,
+      "source": "clueweb09-en0000-00-20622",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.01135538979903472,
+      "source": "clueweb09-en0000-00-20622",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.22376289842046737,
+      "source": "clueweb09-en0000-00-21045",
+      "target": "clueweb09-en0000-00-19318"
+    },
+    {
+      "weight": 0.006904029929804323,
+      "source": "clueweb09-en0000-00-21045",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.026574526783517127,
+      "source": "clueweb09-en0000-00-21045",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.018870385353734642,
+      "source": "clueweb09-en0000-00-19318",
+      "target": "clueweb09-en0000-04-08227"
+    },
+    {
+      "weight": 0.050111230582045474,
+      "source": "clueweb09-en0000-00-19318",
+      "target": "clueweb09-en0000-01-12451"
+    },
+    {
+      "weight": 0.10381689744299516,
+      "source": "clueweb09-en0000-04-08227",
+      "target": "clueweb09-en0000-01-12451"
+    }
+  ]
+}

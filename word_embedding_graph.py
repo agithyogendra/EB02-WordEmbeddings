@@ -22,7 +22,7 @@ stop_words = stopwords.words('english')
 G = nx.Graph()
 doc_corpus = []
 w2v_corpus = []
-path = '/home/agith_yogendra/Desktop/clueweb09PoolFilesTest'  
+path = 'clueweb09PoolFilesTest'  
 
 def preprocess(doc):
     doc = doc.lower()  # Lower the text.
@@ -45,10 +45,10 @@ for file in os.listdir(path):
     f.close()
     i = i + 1
 
-if not os.path.exists('/home/agith_yogendra/Desktop/GoogleNews-vectors-negative300.bin'):
+if not os.path.exists('GoogleNews-vectors-negative300.bin'):
     raise ValueError("SKIP: You need to download the google news model")
 start = time()
-model = Word2Vec.KeyedVectors.load_word2vec_format('/home/agith_yogendra/Desktop/GoogleNews-vectors-negative300.bin', binary=True)    
+model = Word2Vec.KeyedVectors.load_word2vec_format('GoogleNews-vectors-negative300.bin', binary=True)    
 model.init_sims(replace=True)
 model.save('word_embeddings')
 
