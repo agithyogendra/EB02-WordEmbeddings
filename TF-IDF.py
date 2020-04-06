@@ -70,7 +70,6 @@ for file in os.listdir(corpus_path):
   text = soup.get_text()
   text = preprocess(text)
   doc_tokens += [sorted(word_tokenize(text))]
-  # Add to corpus for training Word2Vec.
   corpus.append(text)
   f.close()
 
