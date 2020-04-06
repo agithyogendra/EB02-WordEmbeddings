@@ -121,7 +121,7 @@ for key, value in topics.items():
     if doc_count == 20:
       break
     globalRanking.append(str(key) + " Q0 " + rankingsKey + " " + str(doc_count) + " " + str(rankingsValue))
-    doc_count += 20
+    doc_count += 1
 
 with open("TFIDF.txt", "w") as outfile:
     outfile.write("\n".join(globalRanking))
