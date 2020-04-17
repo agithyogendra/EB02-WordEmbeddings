@@ -1,38 +1,80 @@
 import networkx as nx
 from networkx.readwrite import json_graph
 import json
+from decimal import Decimal
 
+# Get graph from json file 
 def getGraph(filename):
   with open(filename) as f:
     js_graph = json.load(f)
   return json_graph.node_link_graph(js_graph)
 
-G1 = getGraph('G1.json')
+def normalize(score, scores):
+  normal = (score - min(scores))/(max(scores) - min(scores))
+  return normal
 
-G2 = nx.Graph()
-G3 = nx.Graph()
+# Get Threshold
+def get_threshold(G):
+  weight_sum = 0
+  count = 0
+  for u,v,weight in G.edges.data('weight'):
+    if weight > 0:
+      count += 1
+      weight_sum += weight
+  return weight_sum/count
 
-sum = 0
-count = 1
-for u,v,weight in G1.edges.data('weight'):
-  weight = abs(1 - weight)
-  G2.add_edge(u,v,weight = weight)
-  sum = sum + weight
-  count = count + 1
+# Return top 20 ranked documents from subgraph
+def subgraphResults(doc_name, graph, threshold):
+  G = nx.Graph()
+  top_results = {}
+  for edge in list(nx.bfs_edges(graph, source=doc_name)):
+    weight = graph[edge[0]][edge[1]]['weight']
+    if weight > threshold and weight > 0:
+      G.add_edge(edge[0], edge[1], weight=weight)
+  betweenness_centrality = nx.betweenness_centrality(G, normalized=False)
+  doc_count = 20
+  for doc, score in sorted(betweenness_centrality.items(), key=lambda item: item[1], reverse = True):
+    if doc_count == 0:
+      break
+    top_results[doc] = score
+    doc_count = doc_count - 1
+  return top_results
 
-graph_json = json_graph.node_link_data(G2)
-json.dump(graph_json, open('G2.json', 'w'), indent = 2)
+sdm_results = 'EB02-WordEmbeddings\TF_Results.txt'
+G = getGraph('EB02-WordEmbeddings\clueweb09PoolFilesTest.json')
+threshold = get_threshold(G)
 
-threshold = sum/count
-print('Threshold', threshold)
-for u,v,weight in G2.edges.data('weight'):
-  if weight < threshold:
-    G3.add_edge(u,v,weight = 1/weight)
+# Get results
+with open(sdm_results) as f:
+    rankings = [line.rstrip('\n') for line in f]
+output = []
+scores = {}
+# Get query i sdm results
+i = 0
+topic_number = 0
+for rank in rankings:
+  if i == 265:
+    doc_count = 1
+    for doc, score in sorted(scores.items(), key=lambda item: item[1], reverse = True):
+      if doc_count > 20:
+        break
+      output.append(topic_number + " Q0 " + doc + " " + str(doc_count) + " " + str(normalize(score, scores.values()))+ " STANDARD")
+      doc_count += 1
+    scores = {}
+    i = 0
+  split = rank.split()
+  topic_number = split[0]
+  doc_name = split[2]
+  print("Current Doc: ", doc_name)
+  try:
+    subgraph = subgraphResults(doc_name, G, threshold)
+  except:
+    print("Document does not exist!")
+    continue
+  for doc, score in subgraph.items():
+    scores[doc] = score
+    print(score)
+  i += 1
 
-betweenness_centrality = nx.betweenness_centrality(G3,k = None, normalized=True, seed=None)
-doc_count = 20
-for key, value in sorted(betweenness_centrality.items(), key=lambda item: item[1], reverse = True):
-  if doc_count == 0:
-    break
-  print("%s: %s" % (key,value))
-  doc_count = doc_count - 1
+with open("results_file.test", "w") as outfile:
+    outfile.write("\n".join(output))
