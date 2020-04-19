@@ -50,21 +50,23 @@ with open(sdm_results) as f:
 output = []
 scores = {}
 # Get query i sdm results
-i = 0
-topic_number = 0
+prev_topic_number = 0
+sdm_count = 1
 for rank in rankings:
-  if i == 265:
+  split = rank.split()
+  topic_number = split[0]
+  if prev_topic_number == 0:
+    prev_topic_number = topic_number
+  doc_name = split[2]
+  if prev_topic_number != topic_number or sdm_count == len(rankings):
     doc_count = 1
     for doc, score in sorted(scores.items(), key=lambda item: item[1], reverse = True):
       if doc_count > 20:
         break
-      output.append(topic_number + " Q0 " + doc + " " + str(doc_count) + " " + str(normalize(score, scores.values()))+ " STANDARD")
+      output.append(prev_topic_number + " Q0 " + doc + " " + str(doc_count) + " " + str(normalize(score, scores.values()))+ " STANDARD")
       doc_count += 1
     scores = {}
-    i = 0
-  split = rank.split()
-  topic_number = split[0]
-  doc_name = split[2]
+    prev_topic_number = topic_number
   print("Current Doc: ", doc_name)
   try:
     subgraph = subgraphResults(doc_name, G, threshold)
@@ -74,7 +76,9 @@ for rank in rankings:
   for doc, score in subgraph.items():
     scores[doc] = score
     print(score)
-  i += 1
+  sdm_count += 1
+  print(sdm_count)
 
+print(len(rankings))
 with open("results_file.test", "w") as outfile:
     outfile.write("\n".join(output))
