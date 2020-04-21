@@ -40,7 +40,7 @@ def subgraphResults(doc_name, graph, threshold):
     doc_count = doc_count - 1
   return top_results
 
-sdm_results = 'EB02-WordEmbeddings\TF_Results.txt'
+sdm_results = 'EB02-WordEmbeddings\\result_TF_IDF.txt'
 G = getGraph('EB02-WordEmbeddings\clueweb09PoolFilesTest.json')
 threshold = get_threshold(G)
 
@@ -67,7 +67,6 @@ for rank in rankings:
       doc_count += 1
     scores = {}
     prev_topic_number = topic_number
-  print("Current Doc: ", doc_name)
   try:
     subgraph = subgraphResults(doc_name, G, threshold)
   except:
@@ -75,9 +74,7 @@ for rank in rankings:
     continue
   for doc, score in subgraph.items():
     scores[doc] = score
-    print(score)
   sdm_count += 1
-  print(sdm_count)
 
 print(len(rankings))
 with open("results_file.test", "w") as outfile:

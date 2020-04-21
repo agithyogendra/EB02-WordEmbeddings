@@ -43,7 +43,7 @@ def cosine_sim(vec1, vec2):
   mag_2 = math.sqrt(sum([x**2 for x in vec2]))
   return dot_prod / (mag_1 * mag_2)
 
-def queryVectorizer(query):
+def queryVectorizer(query, corpus):
   query_vec = copy.copy(zero_vector)
   tokens = word_tokenize(query)
   token_counts = Counter(tokens)
@@ -107,7 +107,7 @@ for line in lines:
 globalRanking = []
 for key, value in topics.items():
   rankings = {}
-  query_vec = queryVectorizer(value)
+  query_vec = queryVectorizer(value, corpus)
   for i in range(len(corpus)):
     try:
       diff = cosine_sim(query_vec, document_tfidf_vectors[i])
