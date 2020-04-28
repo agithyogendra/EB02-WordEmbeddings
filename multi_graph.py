@@ -39,10 +39,10 @@ def preprocess(doc):
   return ' '.join(doc)
 
 def get_edge(curr_pairing):
-  print("Process Start: " + doc1_name + " , " + doc2_name)
   process_start = time()
   doc1_name = curr_pairing[0][0]
   doc2_name = curr_pairing[1][0]
+  print("Process Start: " + doc1_name + " , " + doc2_name)
   doc1_vector = curr_pairing[0][1]
   doc2_vector = curr_pairing[1][1]
   sim = doc1_vector.similarity(doc2_vector)
