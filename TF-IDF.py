@@ -115,10 +115,8 @@ for key, value in topics.items():
       diff = 0
     if diff > 0:
      rankings[doc_corpus[i]] = diff
-  doc_count = 0
+  doc_count = 1
   for rankingsKey, rankingsValue in sorted(rankings.items(), key=lambda item: item[1], reverse = True):
-    if doc_count == 20:
-      break
     globalRanking.append(str(key) + " Q0 " + rankingsKey + " " + str(doc_count) + " " + str(rankingsValue))
     doc_count += 1
 
