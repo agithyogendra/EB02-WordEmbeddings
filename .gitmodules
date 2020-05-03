@@ -1,0 +1,3 @@
+[submodule "pytrec_eval"]
+	path = pytrec_eval
+	url = https://github.com/agithyogendra/pytrec_eval.git
