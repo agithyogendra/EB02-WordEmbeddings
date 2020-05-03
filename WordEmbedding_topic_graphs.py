@@ -18,8 +18,8 @@ from spacy.lang.en import English
 from multiprocessing.dummy import Pool as ThreadPool
 
 start_project = time()
-path = 'clueweb09PoolFilesTest'  
-sdm_results = 'result_TF_IDF.txt'
+path = 'cw09_pool/clueweb09PoolFiles' 
+sdm_results = 'result_TF_IDF_full_corpus.txt'
 output = []
 nltk.download('wordnet')
 nltk.download("punkt")   # Download data for tokenizer.

@@ -23,7 +23,7 @@ import pytrec_eval
 start_project = time()
 
 path_subgraph = 'subgraphs'
-sdm_results = 'result_TF_IDF.txt'
+sdm_results = 'result_TF_IDF_full_corpus.txt'
 output = []
 scores = {}
 nltk.download('wordnet')
@@ -56,24 +56,44 @@ def get_scores(doc_contents):
     sdm_scores[element[1]] = element[2]
   return sdm_scores
 
-# Return top 20 ranked documents from subgraph
-def subgraphResults(topic_number):
-  process_start = time()
-  try:  
-    subgraph = getGraph(path_subgraph + '/' + 'SubGraph' + topic_number + '.json')
-    threshold = get_threshold(subgraph)
-  except:
-    print("Error: " + topic_number)
-    return
-  print("Process Start Topic: " + topic_number)
-  top_results = {}
+def get_filtered_graph(threshold, subgraph):
   G = nx.Graph()
   for u,v,weight in subgraph.edges.data('weight'):
     if weight > 0 and weight > threshold:
       G.add_edge(u, v, weight=weight)
-  betweenness_centrality = nx.betweenness_centrality(G, normalized=False)
+  return G
+
+# Return top 20 ranked documents from subgraph
+def subgraphResults(topic_number):
+  process_start = time() 
+  subgraph = getGraph(path_subgraph + '/' + 'SubGraph' + topic_number + '.json')
+  threshold = get_threshold(subgraph)
+  print("Process Start Topic: " + topic_number)
+  best_threshold = 0
+  best_centrality_score = float('-inf')
+  best_centrality = None
+  for lmdba in [x/1000 for x in range(0, 100)]:
+    modified_threshold = threshold + lmdba
+    G = get_filtered_graph(modified_threshold, subgraph)
+    betweenness_centrality = nx.betweenness_centrality(G, normalized=False)
+    try:
+      max_betweeness_score = max(betweenness_centrality.values())
+    except:
+      print("Threshold Too large")
+      continue
+    if(max_betweeness_score > best_centrality_score):
+      if best_centrality is not None:
+        best_centrality.clear()
+      best_centrality_score = max_betweeness_score
+      best_threshold = threshold
+      best_centrality = betweenness_centrality
+  print("Best Threshold: " + str(best_threshold))
+  print("Best Centrality Score: " + str(best_centrality_score))
   doc_count = 20
-  for doc, score in sorted(betweenness_centrality.items(), key=lambda item: item[1], reverse = True):
+  if best_centrality is None:
+    best_centrality = nx.betweenness_centrality(get_filtered_graph(threshold, subgraph), normalized=False)
+  print("Caclulating Centrality for Topic: " + topic_number)
+  for doc, score in sorted(best_centrality.items(), key=lambda item: item[1], reverse = True):
     if doc_count == 0:
       break
     scores[topic_number][doc] = score
@@ -98,10 +118,10 @@ for rank in rankings:
 print("Result Retrieval Completed " + str(time() - start_result_retrieval) +  " s")
 
 start_load = time()
-for topic_number in sdm_docs:
-  if topic_number not in scores:
-    scores[topic_number] = {}
-  subgraphResults(topic_number)
+for topic_number in range(1, 201):
+  if str(topic_number) not in scores:
+    scores[str(topic_number)] = {}
+  subgraphResults(str(topic_number))
 print("Subgraphs completed: " + str(time() - start_load) +  "s")
 #pool.join()
 best_score = -1
